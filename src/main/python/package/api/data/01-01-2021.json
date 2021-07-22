@@ -1,0 +1,4429 @@
+{
+    "countries": [
+        {
+            "name": "Albania",
+            "indexes": {
+                "covid_fatality": 2.03,
+                "covid_incidence": 2026.41,
+                "quality_of_life": 99.15,
+                "health_care": {
+                    "index": 50.66,
+                    "skill": 54.92,
+                    "speed": 50.0,
+                    "equipment": 45.09,
+                    "accuracy": 54.66,
+                    "friendliness": 52.46,
+                    "responsiveness": 40.68,
+                    "cost": 46.25,
+                    "location": 65.68
+                },
+                "traffic": {
+                    "index": 123.75,
+                    "time": 39.1,
+                    "inefficiency": 96.12
+                },
+                "pollution": 78.87,
+                "climate": 86.43
+            },
+            "cities": []
+        },
+        {
+            "name": "Algeria",
+            "indexes": {
+                "covid_fatality": 2.76,
+                "covid_incidence": 227.81,
+                "quality_of_life": 97.62,
+                "health_care": {
+                    "index": 53.75,
+                    "skill": 47.6,
+                    "speed": 47.22,
+                    "equipment": 48.93,
+                    "accuracy": 48.16,
+                    "friendliness": 46.83,
+                    "responsiveness": 35.0,
+                    "cost": 74.65,
+                    "location": 60.71
+                },
+                "traffic": {
+                    "index": 219.81,
+                    "time": 49.96,
+                    "inefficiency": 230.88
+                },
+                "pollution": 65.3,
+                "climate": 94.82
+            },
+            "cities": []
+        },
+        {
+            "name": "Argentina",
+            "indexes": {
+                "covid_fatality": 2.66,
+                "covid_incidence": 3605.63,
+                "quality_of_life": 107.0,
+                "health_care": {
+                    "index": 68.73,
+                    "skill": 80.65,
+                    "speed": 70.79,
+                    "equipment": 71.61,
+                    "accuracy": 72.54,
+                    "friendliness": 71.83,
+                    "responsiveness": 46.4,
+                    "cost": 63.52,
+                    "location": 77.68
+                },
+                "traffic": {
+                    "index": 172.57,
+                    "time": 43.09,
+                    "inefficiency": 185.04
+                },
+                "pollution": 51.07,
+                "climate": 98.28
+            },
+            "cities": []
+        },
+        {
+            "name": "Armenia",
+            "indexes": {
+                "covid_fatality": 1.77,
+                "covid_incidence": 5390.66,
+                "quality_of_life": 112.58,
+                "health_care": {
+                    "index": 53.96,
+                    "skill": 57.35,
+                    "speed": 56.62,
+                    "equipment": 62.12,
+                    "accuracy": 51.47,
+                    "friendliness": 54.41,
+                    "responsiveness": 47.06,
+                    "cost": 44.85,
+                    "location": 66.91
+                },
+                "traffic": {
+                    "index": 115.03,
+                    "time": 32.26,
+                    "inefficiency": 95.33
+                },
+                "pollution": 60.51,
+                "climate": 63.42
+            },
+            "cities": []
+        },
+        {
+            "name": "Australia",
+            "indexes": {
+                "covid_fatality": 1.93,
+                "covid_incidence": 70.08,
+                "quality_of_life": 181.0,
+                "health_care": {
+                    "index": 77.87,
+                    "skill": 82.09,
+                    "speed": 76.65,
+                    "equipment": 86.51,
+                    "accuracy": 80.26,
+                    "friendliness": 81.5,
+                    "responsiveness": 64.62,
+                    "cost": 72.93,
+                    "location": 83.32
+                },
+                "traffic": {
+                    "index": 148.13,
+                    "time": 34.89,
+                    "inefficiency": 207.22
+                },
+                "pollution": 23.47,
+                "climate": 92.7
+            },
+            "cities": []
+        },
+        {
+            "name": "Austria",
+            "indexes": {
+                "covid_fatality": 1.73,
+                "covid_incidence": 4029.48,
+                "quality_of_life": 180.24,
+                "health_care": {
+                    "index": 77.96,
+                    "skill": 80.02,
+                    "speed": 76.77,
+                    "equipment": 89.94,
+                    "accuracy": 80.68,
+                    "friendliness": 71.21,
+                    "responsiveness": 61.78,
+                    "cost": 78.02,
+                    "location": 85.21
+                },
+                "traffic": {
+                    "index": 79.85,
+                    "time": 25.67,
+                    "inefficiency": 74.23
+                },
+                "pollution": 19.48,
+                "climate": 77.15
+            },
+            "cities": []
+        },
+        {
+            "name": "Azerbaijan",
+            "indexes": {
+                "covid_fatality": 1.22,
+                "covid_incidence": 2160.34,
+                "quality_of_life": 102.0,
+                "health_care": {
+                    "index": 44.85,
+                    "skill": 36.15,
+                    "speed": 44.05,
+                    "equipment": 56.25,
+                    "accuracy": 42.97,
+                    "friendliness": 45.0,
+                    "responsiveness": 39.68,
+                    "cost": 39.23,
+                    "location": 61.07
+                },
+                "traffic": {
+                    "index": 163.74,
+                    "time": 40.01,
+                    "inefficiency": 213.24
+                },
+                "pollution": 75.72,
+                "climate": 91.4
+            },
+            "cities": []
+        },
+        {
+            "name": "Bahamas",
+            "indexes": {
+                "covid_fatality": 2.17,
+                "covid_incidence": 2005.6,
+                "quality_of_life": 116.37,
+                "health_care": {
+                    "index": 38.24,
+                    "skill": 38.24,
+                    "speed": 23.53,
+                    "equipment": 48.53,
+                    "accuracy": 44.12,
+                    "friendliness": 44.12,
+                    "responsiveness": 23.53,
+                    "cost": 33.82,
+                    "location": 54.41
+                },
+                "traffic": {
+                    "index": 121.85,
+                    "time": 26.82,
+                    "inefficiency": 95.74
+                },
+                "pollution": 62.8,
+                "climate": 85.98
+            },
+            "cities": []
+        },
+        {
+            "name": "Bahrain",
+            "indexes": {
+                "covid_fatality": 0.38,
+                "covid_incidence": 5460.39,
+                "quality_of_life": 130.33,
+                "health_care": {
+                    "index": 67.03,
+                    "skill": 69.85,
+                    "speed": 68.94,
+                    "equipment": 78.79,
+                    "accuracy": 69.53,
+                    "friendliness": 70.59,
+                    "responsiveness": 61.03,
+                    "cost": 52.94,
+                    "location": 78.68
+                },
+                "traffic": {
+                    "index": 140.56,
+                    "time": 30.62,
+                    "inefficiency": 189.81
+                },
+                "pollution": 71.57,
+                "climate": 64.31
+            },
+            "cities": []
+        },
+        {
+            "name": "Bangladesh",
+            "indexes": {
+                "covid_fatality": 1.47,
+                "covid_incidence": 312.41,
+                "quality_of_life": 64.72,
+                "health_care": {
+                    "index": 42.67,
+                    "skill": 44.14,
+                    "speed": 45.74,
+                    "equipment": 52.76,
+                    "accuracy": 44.38,
+                    "friendliness": 36.72,
+                    "responsiveness": 30.36,
+                    "cost": 38.87,
+                    "location": 52.2
+                },
+                "traffic": {
+                    "index": 262.3,
+                    "time": 57.73,
+                    "inefficiency": 329.94
+                },
+                "pollution": 84.8,
+                "climate": 72.91
+            },
+            "cities": []
+        },
+        {
+            "name": "Belarus",
+            "indexes": {
+                "covid_fatality": 0.73,
+                "covid_incidence": 2076.58,
+                "quality_of_life": 107.93,
+                "health_care": {
+                    "index": 44.75,
+                    "skill": 44.43,
+                    "speed": 37.7,
+                    "equipment": 37.55,
+                    "accuracy": 40.62,
+                    "friendliness": 42.73,
+                    "responsiveness": 25.89,
+                    "cost": 57.93,
+                    "location": 57.98
+                },
+                "traffic": {
+                    "index": 108.28,
+                    "time": 30.05,
+                    "inefficiency": 97.41
+                },
+                "pollution": 44.06,
+                "climate": 64.37
+            },
+            "cities": []
+        },
+        {
+            "name": "Belgium",
+            "indexes": {
+                "covid_fatality": 15.25,
+                "covid_incidence": 5797.88,
+                "quality_of_life": 150.62,
+                "health_care": {
+                    "index": 75.21,
+                    "skill": 79.08,
+                    "speed": 73.06,
+                    "equipment": 87.55,
+                    "accuracy": 76.75,
+                    "friendliness": 74.03,
+                    "responsiveness": 62.99,
+                    "cost": 71.52,
+                    "location": 80.39
+                },
+                "traffic": {
+                    "index": 146.61,
+                    "time": 36.31,
+                    "inefficiency": 191.13
+                },
+                "pollution": 50.14,
+                "climate": 86.03
+            },
+            "cities": [
+                {
+                    "name": "Antwerp",
+                    "indexes": {
+                        "covid_fatality": 0.0,
+                        "covid_incidence": 4288.51,
+                        "quality_of_life": 151.33,
+                        "health_care": {
+                            "index": 80.53,
+                            "skill": 88.79,
+                            "speed": 82.76,
+                            "equipment": 91.96,
+                            "accuracy": 84.48,
+                            "friendliness": 76.72,
+                            "responsiveness": 66.96,
+                            "cost": 74.14,
+                            "location": 84.82
+                        },
+                        "traffic": {
+                            "index": 156.69,
+                            "time": 37.15,
+                            "inefficiency": 204.94
+                        },
+                        "pollution": 59.95,
+                        "climate": 85.42
+                    }
+                },
+                {
+                    "name": "Brussels",
+                    "indexes": {
+                        "covid_fatality": 0.0,
+                        "covid_incidence": 6748.38,
+                        "quality_of_life": 141.14,
+                        "health_care": {
+                            "index": 74.94,
+                            "skill": 79.84,
+                            "speed": 75.54,
+                            "equipment": 89.4,
+                            "accuracy": 77.42,
+                            "friendliness": 73.1,
+                            "responsiveness": 67.93,
+                            "cost": 66.11,
+                            "location": 79.03
+                        },
+                        "traffic": {
+                            "index": 151.45,
+                            "time": 37.02,
+                            "inefficiency": 188.22
+                        },
+                        "pollution": 62.13,
+                        "climate": 83.85
+                    }
+                },
+                {
+                    "name": "Liege",
+                    "indexes": {
+                        "covid_fatality": 0.0,
+                        "covid_incidence": 8764.92,
+                        "quality_of_life": 155.84,
+                        "health_care": {
+                            "index": 85.58,
+                            "skill": 85.71,
+                            "speed": 82.14,
+                            "equipment": 91.67,
+                            "accuracy": 89.29,
+                            "friendliness": 78.57,
+                            "responsiveness": 60.71,
+                            "cost": 92.86,
+                            "location": 96.43
+                        },
+                        "traffic": {
+                            "index": 116.7,
+                            "time": 30.0,
+                            "inefficiency": 89.88
+                        },
+                        "pollution": 49.97,
+                        "climate": 84.7
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Bolivia",
+            "indexes": {
+                "covid_fatality": 5.7,
+                "covid_incidence": 1379.12,
+                "quality_of_life": 97.48,
+                "health_care": {
+                    "index": 50.84,
+                    "skill": 45.16,
+                    "speed": 50.0,
+                    "equipment": 49.14,
+                    "accuracy": 51.67,
+                    "friendliness": 46.77,
+                    "responsiveness": 37.1,
+                    "cost": 59.68,
+                    "location": 58.33
+                },
+                "traffic": {
+                    "index": 160.28,
+                    "time": 41.07,
+                    "inefficiency": 180.39
+                },
+                "pollution": 73.21,
+                "climate": 68.52
+            },
+            "cities": []
+        },
+        {
+            "name": "Bosnia And Herzegovina",
+            "indexes": {
+                "covid_fatality": 3.64,
+                "covid_incidence": 3418.14,
+                "quality_of_life": 128.68,
+                "health_care": {
+                    "index": 53.2,
+                    "skill": 51.13,
+                    "speed": 42.99,
+                    "equipment": 53.54,
+                    "accuracy": 49.61,
+                    "friendliness": 50.0,
+                    "responsiveness": 34.81,
+                    "cost": 61.26,
+                    "location": 74.22
+                },
+                "traffic": {
+                    "index": 89.54,
+                    "time": 25.89,
+                    "inefficiency": 68.59
+                },
+                "pollution": 60.71,
+                "climate": 80.48
+            },
+            "cities": []
+        },
+        {
+            "name": "Botswana",
+            "indexes": {
+                "covid_fatality": 0.28,
+                "covid_incidence": 629.56,
+                "quality_of_life": 90.08,
+                "health_care": {
+                    "index": 60.15,
+                    "skill": 62.5,
+                    "speed": 53.85,
+                    "equipment": 46.43,
+                    "accuracy": 57.14,
+                    "friendliness": 66.07,
+                    "responsiveness": 42.86,
+                    "cost": 73.21,
+                    "location": 66.07
+                },
+                "traffic": {
+                    "index": 127.22,
+                    "time": 28.53,
+                    "inefficiency": 95.84
+                },
+                "pollution": 46.09,
+                "climate": 88.87
+            },
+            "cities": []
+        },
+        {
+            "name": "Brazil",
+            "indexes": {
+                "covid_fatality": 2.29,
+                "covid_incidence": 4724.69,
+                "quality_of_life": 105.66,
+                "health_care": {
+                    "index": 57.6,
+                    "skill": 63.94,
+                    "speed": 55.93,
+                    "equipment": 67.63,
+                    "accuracy": 63.04,
+                    "friendliness": 61.4,
+                    "responsiveness": 41.79,
+                    "cost": 47.82,
+                    "location": 69.03
+                },
+                "traffic": {
+                    "index": 177.06,
+                    "time": 41.64,
+                    "inefficiency": 209.46
+                },
+                "pollution": 54.42,
+                "climate": 92.39
+            },
+            "cities": [
+                {
+                    "name": "Rio de Janeiro",
+                    "indexes": {
+                        "covid_fatality": 5.88,
+                        "covid_incidence": 2521.82,
+                        "quality_of_life": 70.29,
+                        "health_care": {
+                            "index": 43.79,
+                            "skill": 46.9,
+                            "speed": 40.45,
+                            "equipment": 54.2,
+                            "accuracy": 50.0,
+                            "friendliness": 50.35,
+                            "responsiveness": 31.69,
+                            "cost": 31.29,
+                            "location": 57.92
+                        },
+                        "traffic": {
+                            "index": 233.46,
+                            "time": 51.94,
+                            "inefficiency": 241.61
+                        },
+                        "pollution": 67.51,
+                        "climate": 88.22
+                    }
+                },
+                {
+                    "name": "Santa Catarina",
+                    "indexes": {
+                        "covid_fatality": 1.07,
+                        "covid_incidence": 6901.07,
+                        "quality_of_life": 167.94,
+                        "health_care": {
+                            "index": 76.74,
+                            "skill": 81.25,
+                            "speed": 75.0,
+                            "equipment": 71.88,
+                            "accuracy": 71.88,
+                            "friendliness": 81.25,
+                            "responsiveness": 65.62,
+                            "cost": 78.12,
+                            "location": 87.5
+                        },
+                        "traffic": {
+                            "index": 85.24,
+                            "time": 29.0,
+                            "inefficiency": 92.19
+                        },
+                        "pollution": 20.44,
+                        "climate": 92.45
+                    }
+                },
+                {
+                    "name": "Sao Paulo",
+                    "indexes": {
+                        "covid_fatality": 3.19,
+                        "covid_incidence": 3192.99,
+                        "quality_of_life": 83.16,
+                        "health_care": {
+                            "index": 57.95,
+                            "skill": 66.4,
+                            "speed": 60.25,
+                            "equipment": 71.56,
+                            "accuracy": 65.95,
+                            "friendliness": 64.52,
+                            "responsiveness": 44.59,
+                            "cost": 39.74,
+                            "location": 68.78
+                        },
+                        "traffic": {
+                            "index": 236.29,
+                            "time": 50.88,
+                            "inefficiency": 280.36
+                        },
+                        "pollution": 79.47,
+                        "climate": 99.04
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Bulgaria",
+            "indexes": {
+                "covid_fatality": 3.75,
+                "covid_incidence": 2914.9,
+                "quality_of_life": 126.66,
+                "health_care": {
+                    "index": 56.09,
+                    "skill": 59.62,
+                    "speed": 58.84,
+                    "equipment": 52.94,
+                    "accuracy": 52.48,
+                    "friendliness": 46.9,
+                    "responsiveness": 40.42,
+                    "cost": 60.02,
+                    "location": 73.56
+                },
+                "traffic": {
+                    "index": 102.65,
+                    "time": 29.39,
+                    "inefficiency": 93.42
+                },
+                "pollution": 64.38,
+                "climate": 82.76
+            },
+            "cities": []
+        },
+        {
+            "name": "Cambodia",
+            "indexes": {
+                "covid_fatality": 0.0,
+                "covid_incidence": 2.27,
+                "quality_of_life": 60.16,
+                "health_care": {
+                    "index": 49.43,
+                    "skill": 35.62,
+                    "speed": 53.21,
+                    "equipment": 42.36,
+                    "accuracy": 38.16,
+                    "friendliness": 66.67,
+                    "responsiveness": 50.66,
+                    "cost": 47.37,
+                    "location": 63.46
+                },
+                "traffic": {
+                    "index": 103.56,
+                    "time": 27.73,
+                    "inefficiency": 111.96
+                },
+                "pollution": 78.27,
+                "climate": 59.43
+            },
+            "cities": []
+        },
+        {
+            "name": "Canada",
+            "indexes": {
+                "covid_fatality": 1.46,
+                "covid_incidence": 867.74,
+                "quality_of_life": 158.39,
+                "health_care": {
+                    "index": 71.72,
+                    "skill": 73.44,
+                    "speed": 59.78,
+                    "equipment": 80.44,
+                    "accuracy": 73.95,
+                    "friendliness": 73.39,
+                    "responsiveness": 42.53,
+                    "cost": 81.85,
+                    "location": 78.26
+                },
+                "traffic": {
+                    "index": 139.95,
+                    "time": 33.73,
+                    "inefficiency": 176.11
+                },
+                "pollution": 28.27,
+                "climate": 56.31
+            },
+            "cities": [
+                {
+                    "name": "Quebec",
+                    "indexes": {
+                        "covid_fatality": 4.06,
+                        "covid_incidence": 2373.49,
+                        "quality_of_life": 188.41,
+                        "health_care": {
+                            "index": 71.23,
+                            "skill": 80.26,
+                            "speed": 53.95,
+                            "equipment": 81.76,
+                            "accuracy": 74.26,
+                            "friendliness": 77.63,
+                            "responsiveness": 32.43,
+                            "cost": 80.92,
+                            "location": 78.95
+                        },
+                        "traffic": {
+                            "index": 106.66,
+                            "time": 27.53,
+                            "inefficiency": 94.85
+                        },
+                        "pollution": 28.21,
+                        "climate": 47.98
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Chile",
+            "indexes": {
+                "covid_fatality": 1.92,
+                "covid_incidence": 3418.63,
+                "quality_of_life": 97.87,
+                "health_care": {
+                    "index": 63.87,
+                    "skill": 71.91,
+                    "speed": 67.5,
+                    "equipment": 76.79,
+                    "accuracy": 71.28,
+                    "friendliness": 64.12,
+                    "responsiveness": 53.24,
+                    "cost": 46.56,
+                    "location": 76.92
+                },
+                "traffic": {
+                    "index": 132.16,
+                    "time": 36.29,
+                    "inefficiency": 115.56
+                },
+                "pollution": 78.8,
+                "climate": 90.21
+            },
+            "cities": []
+        },
+        {
+            "name": "China",
+            "indexes": {
+                "covid_fatality": 0.9,
+                "covid_incidence": 8.7,
+                "quality_of_life": 103.57,
+                "health_care": {
+                    "index": 66.09,
+                    "skill": 66.77,
+                    "speed": 70.65,
+                    "equipment": 78.8,
+                    "accuracy": 69.91,
+                    "friendliness": 58.44,
+                    "responsiveness": 55.45,
+                    "cost": 61.03,
+                    "location": 72.76
+                },
+                "traffic": {
+                    "index": 156.62,
+                    "time": 40.91,
+                    "inefficiency": 175.09
+                },
+                "pollution": 81.23,
+                "climate": 80.21
+            },
+            "cities": [
+                {
+                    "name": "Beijing",
+                    "indexes": {
+                        "covid_fatality": 0.91,
+                        "covid_incidence": 4.59,
+                        "quality_of_life": 74.96,
+                        "health_care": {
+                            "index": 64.09,
+                            "skill": 66.79,
+                            "speed": 66.54,
+                            "equipment": 81.88,
+                            "accuracy": 72.1,
+                            "friendliness": 54.41,
+                            "responsiveness": 47.76,
+                            "cost": 57.97,
+                            "location": 71.38
+                        },
+                        "traffic": {
+                            "index": 194.62,
+                            "time": 45.53,
+                            "inefficiency": 202.19
+                        },
+                        "pollution": 84.91,
+                        "climate": 57.64
+                    }
+                },
+                {
+                    "name": "Chongqing",
+                    "indexes": {
+                        "covid_fatality": 1.02,
+                        "covid_incidence": 1.9,
+                        "quality_of_life": 116.55,
+                        "health_care": {
+                            "index": 53.33,
+                            "skill": 40.0,
+                            "speed": 60.0,
+                            "equipment": 60.0,
+                            "accuracy": 45.0,
+                            "friendliness": 50.0,
+                            "responsiveness": 40.0,
+                            "cost": 55.0,
+                            "location": 75.0
+                        },
+                        "traffic": {
+                            "index": 172.84,
+                            "time": 52.17,
+                            "inefficiency": 283.69
+                        },
+                        "pollution": 76.65,
+                        "climate": 91.6
+                    }
+                },
+                {
+                    "name": "Shandong",
+                    "indexes": {
+                        "covid_fatality": 0.81,
+                        "covid_incidence": 0.86,
+                        "quality_of_life": 140.48,
+                        "health_care": {
+                            "index": 79.8,
+                            "skill": 83.82,
+                            "speed": 79.55,
+                            "equipment": 77.94,
+                            "accuracy": 80.3,
+                            "friendliness": 82.81,
+                            "responsiveness": 77.21,
+                            "cost": 76.47,
+                            "location": 83.59
+                        },
+                        "traffic": {
+                            "index": 108.49,
+                            "time": 31.54,
+                            "inefficiency": 119.72
+                        },
+                        "pollution": 56.83,
+                        "climate": 70.4
+                    }
+                },
+                {
+                    "name": "Shanghai",
+                    "indexes": {
+                        "covid_fatality": 0.46,
+                        "covid_incidence": 6.27,
+                        "quality_of_life": 90.96,
+                        "health_care": {
+                            "index": 60.82,
+                            "skill": 61.57,
+                            "speed": 64.9,
+                            "equipment": 75.0,
+                            "accuracy": 64.35,
+                            "friendliness": 50.93,
+                            "responsiveness": 49.54,
+                            "cost": 57.21,
+                            "location": 66.67
+                        },
+                        "traffic": {
+                            "index": 197.67,
+                            "time": 48.68,
+                            "inefficiency": 233.33
+                        },
+                        "pollution": 76.24,
+                        "climate": 83.64
+                    }
+                },
+                {
+                    "name": "Tianjin",
+                    "indexes": {
+                        "covid_fatality": 0.96,
+                        "covid_incidence": 2.0,
+                        "quality_of_life": 87.55,
+                        "health_care": {
+                            "index": 72.69,
+                            "skill": 75.0,
+                            "speed": 83.33,
+                            "equipment": 87.5,
+                            "accuracy": 75.0,
+                            "friendliness": 62.5,
+                            "responsiveness": 62.5,
+                            "cost": 58.33,
+                            "location": 91.67
+                        },
+                        "traffic": {
+                            "index": 160.83,
+                            "time": 38.33,
+                            "inefficiency": 103.59
+                        },
+                        "pollution": 85.23,
+                        "climate": 64.22
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Colombia",
+            "indexes": {
+                "covid_fatality": 2.88,
+                "covid_incidence": 2786.05,
+                "quality_of_life": 102.32,
+                "health_care": {
+                    "index": 66.78,
+                    "skill": 70.48,
+                    "speed": 62.17,
+                    "equipment": 72.05,
+                    "accuracy": 68.17,
+                    "friendliness": 73.01,
+                    "responsiveness": 49.5,
+                    "cost": 65.56,
+                    "location": 74.5
+                },
+                "traffic": {
+                    "index": 196.77,
+                    "time": 47.19,
+                    "inefficiency": 209.73
+                },
+                "pollution": 62.81,
+                "climate": 88.3
+            },
+            "cities": []
+        },
+        {
+            "name": "Costa Rica",
+            "indexes": {
+                "covid_fatality": 1.29,
+                "covid_incidence": 3323.86,
+                "quality_of_life": 121.91,
+                "health_care": {
+                    "index": 62.86,
+                    "skill": 73.05,
+                    "speed": 52.69,
+                    "equipment": 67.97,
+                    "accuracy": 63.31,
+                    "friendliness": 64.84,
+                    "responsiveness": 38.49,
+                    "cost": 64.06,
+                    "location": 77.31
+                },
+                "traffic": {
+                    "index": 300.05,
+                    "time": 60.19,
+                    "inefficiency": 331.48
+                },
+                "pollution": 44.07,
+                "climate": 99.48
+            },
+            "cities": []
+        },
+        {
+            "name": "Croatia",
+            "indexes": {
+                "covid_fatality": 1.87,
+                "covid_incidence": 5164.27,
+                "quality_of_life": 153.37,
+                "health_care": {
+                    "index": 64.08,
+                    "skill": 69.72,
+                    "speed": 48.25,
+                    "equipment": 64.4,
+                    "accuracy": 63.73,
+                    "friendliness": 63.18,
+                    "responsiveness": 35.33,
+                    "cost": 76.91,
+                    "location": 78.27
+                },
+                "traffic": {
+                    "index": 100.38,
+                    "time": 28.04,
+                    "inefficiency": 101.75
+                },
+                "pollution": 30.92,
+                "climate": 89.69
+            },
+            "cities": []
+        },
+        {
+            "name": "Cuba",
+            "indexes": {
+                "covid_fatality": 1.21,
+                "covid_incidence": 106.44,
+                "quality_of_life": 77.79,
+                "health_care": {
+                    "index": 56.96,
+                    "skill": 60.94,
+                    "speed": 48.33,
+                    "equipment": 31.67,
+                    "accuracy": 40.0,
+                    "friendliness": 53.33,
+                    "responsiveness": 35.0,
+                    "cost": 81.67,
+                    "location": 80.0
+                },
+                "traffic": {
+                    "index": 85.33,
+                    "time": 33.33,
+                    "inefficiency": 55.06
+                },
+                "pollution": 66.42,
+                "climate": 89.86
+            },
+            "cities": []
+        },
+        {
+            "name": "Cyprus",
+            "indexes": {
+                "covid_fatality": 0.56,
+                "covid_incidence": 1889.91,
+                "quality_of_life": 147.12,
+                "health_care": {
+                    "index": 54.66,
+                    "skill": 53.64,
+                    "speed": 52.78,
+                    "equipment": 59.05,
+                    "accuracy": 52.86,
+                    "friendliness": 57.43,
+                    "responsiveness": 45.28,
+                    "cost": 53.21,
+                    "location": 64.49
+                },
+                "traffic": {
+                    "index": 106.61,
+                    "time": 23.32,
+                    "inefficiency": 147.97
+                },
+                "pollution": 55.06,
+                "climate": 93.34
+            },
+            "cities": []
+        },
+        {
+            "name": "Czech Republic",
+            "indexes": {
+                "covid_fatality": 1.6,
+                "covid_incidence": 6835.59,
+                "quality_of_life": 159.8,
+                "health_care": {
+                    "index": 75.43,
+                    "skill": 80.28,
+                    "speed": 71.29,
+                    "equipment": 83.02,
+                    "accuracy": 73.52,
+                    "friendliness": 61.74,
+                    "responsiveness": 54.16,
+                    "cost": 85.49,
+                    "location": 83.88
+                },
+                "traffic": {
+                    "index": 92.03,
+                    "time": 29.65,
+                    "inefficiency": 73.88
+                },
+                "pollution": 36.29,
+                "climate": 77.99
+            },
+            "cities": []
+        },
+        {
+            "name": "Denmark",
+            "indexes": {
+                "covid_fatality": 0.8,
+                "covid_incidence": 2864.71,
+                "quality_of_life": 188.86,
+                "health_care": {
+                    "index": 79.67,
+                    "skill": 78.42,
+                    "speed": 68.31,
+                    "equipment": 88.86,
+                    "accuracy": 76.4,
+                    "friendliness": 82.98,
+                    "responsiveness": 60.03,
+                    "cost": 89.75,
+                    "location": 82.53
+                },
+                "traffic": {
+                    "index": 88.25,
+                    "time": 28.6,
+                    "inefficiency": 122.0
+                },
+                "pollution": 21.29,
+                "climate": 81.8
+            },
+            "cities": []
+        },
+        {
+            "name": "Dominican Republic",
+            "indexes": {
+                "covid_fatality": 1.4,
+                "covid_incidence": 1587.57,
+                "quality_of_life": 84.96,
+                "health_care": {
+                    "index": 55.6,
+                    "skill": 62.26,
+                    "speed": 60.38,
+                    "equipment": 54.41,
+                    "accuracy": 53.5,
+                    "friendliness": 58.02,
+                    "responsiveness": 44.71,
+                    "cost": 51.96,
+                    "location": 63.24
+                },
+                "traffic": {
+                    "index": 193.1,
+                    "time": 42.9,
+                    "inefficiency": 186.52
+                },
+                "pollution": 75.54,
+                "climate": 67.82
+            },
+            "cities": []
+        },
+        {
+            "name": "Ecuador",
+            "indexes": {
+                "covid_fatality": 6.59,
+                "covid_incidence": 1209.42,
+                "quality_of_life": 116.85,
+                "health_care": {
+                    "index": 68.28,
+                    "skill": 68.63,
+                    "speed": 64.71,
+                    "equipment": 68.82,
+                    "accuracy": 68.04,
+                    "friendliness": 69.36,
+                    "responsiveness": 54.21,
+                    "cost": 73.51,
+                    "location": 73.76
+                },
+                "traffic": {
+                    "index": 172.53,
+                    "time": 39.57,
+                    "inefficiency": 185.12
+                },
+                "pollution": 58.38,
+                "climate": 94.51
+            },
+            "cities": []
+        },
+        {
+            "name": "Egypt",
+            "indexes": {
+                "covid_fatality": 5.51,
+                "covid_incidence": 136.29,
+                "quality_of_life": 86.55,
+                "health_care": {
+                    "index": 46.64,
+                    "skill": 48.74,
+                    "speed": 44.65,
+                    "equipment": 48.14,
+                    "accuracy": 45.27,
+                    "friendliness": 46.45,
+                    "responsiveness": 31.62,
+                    "cost": 48.98,
+                    "location": 56.94
+                },
+                "traffic": {
+                    "index": 235.77,
+                    "time": 49.08,
+                    "inefficiency": 289.84
+                },
+                "pollution": 84.26,
+                "climate": 91.98
+            },
+            "cities": []
+        },
+        {
+            "name": "El Salvador",
+            "indexes": {
+                "covid_fatality": 2.89,
+                "covid_incidence": 708.58,
+                "quality_of_life": 79.14,
+                "health_care": {
+                    "index": 51.0,
+                    "skill": 46.43,
+                    "speed": 39.29,
+                    "equipment": 54.76,
+                    "accuracy": 51.19,
+                    "friendliness": 38.75,
+                    "responsiveness": 35.71,
+                    "cost": 66.67,
+                    "location": 59.52
+                },
+                "traffic": {
+                    "index": 204.47,
+                    "time": 42.85,
+                    "inefficiency": 226.27
+                },
+                "pollution": 79.2,
+                "climate": 86.6
+            },
+            "cities": []
+        },
+        {
+            "name": "Estonia",
+            "indexes": {
+                "covid_fatality": 0.82,
+                "covid_incidence": 2141.36,
+                "quality_of_life": 172.88,
+                "health_care": {
+                    "index": 72.68,
+                    "skill": 73.7,
+                    "speed": 66.73,
+                    "equipment": 84.77,
+                    "accuracy": 76.76,
+                    "friendliness": 65.11,
+                    "responsiveness": 47.93,
+                    "cost": 79.81,
+                    "location": 79.48
+                },
+                "traffic": {
+                    "index": 85.67,
+                    "time": 24.53,
+                    "inefficiency": 99.97
+                },
+                "pollution": 19.04,
+                "climate": 64.28
+            },
+            "cities": []
+        },
+        {
+            "name": "Ethiopia",
+            "indexes": {
+                "covid_fatality": 1.55,
+                "covid_incidence": 108.43,
+                "quality_of_life": 66.69,
+                "health_care": {
+                    "index": 52.12,
+                    "skill": 42.86,
+                    "speed": 58.93,
+                    "equipment": 41.07,
+                    "accuracy": 37.5,
+                    "friendliness": 64.29,
+                    "responsiveness": 42.31,
+                    "cost": 53.57,
+                    "location": 75.0
+                },
+                "traffic": {
+                    "index": 240.33,
+                    "time": 57.33,
+                    "inefficiency": 236.44
+                },
+                "pollution": 77.74,
+                "climate": 96.82
+            },
+            "cities": []
+        },
+        {
+            "name": "Fiji",
+            "indexes": {
+                "covid_fatality": 4.08,
+                "covid_incidence": 5.47,
+                "quality_of_life": 102.88,
+                "health_care": {
+                    "index": 49.05,
+                    "skill": 45.31,
+                    "speed": 40.62,
+                    "equipment": 40.0,
+                    "accuracy": 45.0,
+                    "friendliness": 68.75,
+                    "responsiveness": 40.62,
+                    "cost": 51.67,
+                    "location": 57.81
+                },
+                "traffic": {
+                    "index": 181.89,
+                    "time": 40.23,
+                    "inefficiency": 274.61
+                },
+                "pollution": 52.42,
+                "climate": 71.89
+            },
+            "cities": []
+        },
+        {
+            "name": "Finland",
+            "indexes": {
+                "covid_fatality": 1.54,
+                "covid_incidence": 657.01,
+                "quality_of_life": 181.8,
+                "health_care": {
+                    "index": 76.09,
+                    "skill": 78.62,
+                    "speed": 71.04,
+                    "equipment": 88.51,
+                    "accuracy": 77.99,
+                    "friendliness": 73.43,
+                    "responsiveness": 59.62,
+                    "cost": 77.53,
+                    "location": 80.57
+                },
+                "traffic": {
+                    "index": 88.6,
+                    "time": 28.91,
+                    "inefficiency": 77.02
+                },
+                "pollution": 12.03,
+                "climate": 56.64
+            },
+            "cities": []
+        },
+        {
+            "name": "France",
+            "indexes": {
+                "covid_fatality": 2.44,
+                "covid_incidence": 4038.46,
+                "quality_of_life": 154.19,
+                "health_care": {
+                    "index": 80.58,
+                    "skill": 85.01,
+                    "speed": 77.32,
+                    "equipment": 88.24,
+                    "accuracy": 81.52,
+                    "friendliness": 73.14,
+                    "responsiveness": 64.09,
+                    "cost": 85.41,
+                    "location": 85.07
+                },
+                "traffic": {
+                    "index": 123.86,
+                    "time": 34.46,
+                    "inefficiency": 126.28
+                },
+                "pollution": 42.13,
+                "climate": 90.41
+            },
+            "cities": []
+        },
+        {
+            "name": "Georgia",
+            "indexes": {
+                "covid_fatality": 1.11,
+                "covid_incidence": 5725.75,
+                "quality_of_life": 118.46,
+                "health_care": {
+                    "index": 54.43,
+                    "skill": 49.54,
+                    "speed": 54.81,
+                    "equipment": 58.8,
+                    "accuracy": 49.02,
+                    "friendliness": 59.55,
+                    "responsiveness": 49.54,
+                    "cost": 54.09,
+                    "location": 60.45
+                },
+                "traffic": {
+                    "index": 123.22,
+                    "time": 35.4,
+                    "inefficiency": 146.73
+                },
+                "pollution": 70.27,
+                "climate": 88.53
+            },
+            "cities": []
+        },
+        {
+            "name": "Germany",
+            "indexes": {
+                "covid_fatality": 1.82,
+                "covid_incidence": 1964.69,
+                "quality_of_life": 176.76,
+                "health_care": {
+                    "index": 73.76,
+                    "skill": 77.53,
+                    "speed": 70.91,
+                    "equipment": 88.4,
+                    "accuracy": 75.85,
+                    "friendliness": 67.82,
+                    "responsiveness": 55.05,
+                    "cost": 73.03,
+                    "location": 82.23
+                },
+                "traffic": {
+                    "index": 105.5,
+                    "time": 31.35,
+                    "inefficiency": 128.7
+                },
+                "pollution": 27.75,
+                "climate": 82.97
+            },
+            "cities": [
+                {
+                    "name": "Berlin",
+                    "indexes": {
+                        "covid_fatality": 1.31,
+                        "covid_incidence": 2679.11,
+                        "quality_of_life": 158.43,
+                        "health_care": {
+                            "index": 69.63,
+                            "skill": 74.16,
+                            "speed": 64.08,
+                            "equipment": 84.41,
+                            "accuracy": 72.24,
+                            "friendliness": 62.57,
+                            "responsiveness": 47.89,
+                            "cost": 71.19,
+                            "location": 78.91
+                        },
+                        "traffic": {
+                            "index": 101.42,
+                            "time": 34.05,
+                            "inefficiency": 115.22
+                        },
+                        "pollution": 39.15,
+                        "climate": 83.35
+                    }
+                },
+                {
+                    "name": "Bremen",
+                    "indexes": {
+                        "covid_fatality": 1.47,
+                        "covid_incidence": 2007.07,
+                        "quality_of_life": 177.71,
+                        "health_care": {
+                            "index": 73.33,
+                            "skill": 83.33,
+                            "speed": 79.17,
+                            "equipment": 95.83,
+                            "accuracy": 75.0,
+                            "friendliness": 60.0,
+                            "responsiveness": 70.83,
+                            "cost": 62.5,
+                            "location": 70.83
+                        },
+                        "traffic": {
+                            "index": 119.3,
+                            "time": 33.4,
+                            "inefficiency": 191.51
+                        },
+                        "pollution": 22.63,
+                        "climate": 83.08
+                    }
+                },
+                {
+                    "name": "Hamburg",
+                    "indexes": {
+                        "covid_fatality": 1.76,
+                        "covid_incidence": 2025.71,
+                        "quality_of_life": 163.78,
+                        "health_care": {
+                            "index": 74.68,
+                            "skill": 80.8,
+                            "speed": 75.89,
+                            "equipment": 90.45,
+                            "accuracy": 78.12,
+                            "friendliness": 68.64,
+                            "responsiveness": 57.46,
+                            "cost": 69.55,
+                            "location": 81.7
+                        },
+                        "traffic": {
+                            "index": 120.2,
+                            "time": 34.21,
+                            "inefficiency": 143.29
+                        },
+                        "pollution": 30.65,
+                        "climate": 82.75
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Ghana",
+            "indexes": {
+                "covid_fatality": 0.61,
+                "covid_incidence": 176.78,
+                "quality_of_life": 0.0,
+                "health_care": {
+                    "index": 65.58,
+                    "skill": 76.56,
+                    "speed": 71.09,
+                    "equipment": 67.5,
+                    "accuracy": 64.84,
+                    "friendliness": 71.09,
+                    "responsiveness": 57.26,
+                    "cost": 54.69,
+                    "location": 72.5
+                },
+                "traffic": {
+                    "index": 185.24,
+                    "time": 36.5,
+                    "inefficiency": 480.08
+                },
+                "pollution": 88.98,
+                "climate": 67.03
+            },
+            "cities": []
+        },
+        {
+            "name": "Greece",
+            "indexes": {
+                "covid_fatality": 3.5,
+                "covid_incidence": 1337.87,
+                "quality_of_life": 130.17,
+                "health_care": {
+                    "index": 56.99,
+                    "skill": 62.97,
+                    "speed": 48.96,
+                    "equipment": 57.96,
+                    "accuracy": 57.4,
+                    "friendliness": 59.31,
+                    "responsiveness": 35.14,
+                    "cost": 61.86,
+                    "location": 67.42
+                },
+                "traffic": {
+                    "index": 133.09,
+                    "time": 33.81,
+                    "inefficiency": 142.67
+                },
+                "pollution": 51.97,
+                "climate": 94.18
+            },
+            "cities": []
+        },
+        {
+            "name": "Guatemala",
+            "indexes": {
+                "covid_fatality": 3.49,
+                "covid_incidence": 771.6,
+                "quality_of_life": 97.66,
+                "health_care": {
+                    "index": 65.94,
+                    "skill": 68.89,
+                    "speed": 59.44,
+                    "equipment": 58.15,
+                    "accuracy": 63.37,
+                    "friendliness": 72.22,
+                    "responsiveness": 58.33,
+                    "cost": 70.11,
+                    "location": 72.83
+                },
+                "traffic": {
+                    "index": 248.76,
+                    "time": 48.56,
+                    "inefficiency": 265.36
+                },
+                "pollution": 72.47,
+                "climate": 99.89
+            },
+            "cities": []
+        },
+        {
+            "name": "Hungary",
+            "indexes": {
+                "covid_fatality": 2.97,
+                "covid_incidence": 3367.15,
+                "quality_of_life": 135.08,
+                "health_care": {
+                    "index": 52.58,
+                    "skill": 61.51,
+                    "speed": 38.79,
+                    "equipment": 51.31,
+                    "accuracy": 55.2,
+                    "friendliness": 47.58,
+                    "responsiveness": 27.61,
+                    "cost": 62.92,
+                    "location": 65.39
+                },
+                "traffic": {
+                    "index": 126.59,
+                    "time": 35.84,
+                    "inefficiency": 131.28
+                },
+                "pollution": 47.98,
+                "climate": 79.48
+            },
+            "cities": []
+        },
+        {
+            "name": "Iceland",
+            "indexes": {
+                "covid_fatality": 0.5,
+                "covid_incidence": 1686.15,
+                "quality_of_life": 177.51,
+                "health_care": {
+                    "index": 65.69,
+                    "skill": 75.2,
+                    "speed": 59.17,
+                    "equipment": 66.45,
+                    "accuracy": 68.53,
+                    "friendliness": 79.96,
+                    "responsiveness": 44.63,
+                    "cost": 56.82,
+                    "location": 83.61
+                },
+                "traffic": {
+                    "index": 90.17,
+                    "time": 19.9,
+                    "inefficiency": 79.67
+                },
+                "pollution": 16.24,
+                "climate": 68.81
+            },
+            "cities": []
+        },
+        {
+            "name": "India",
+            "indexes": {
+                "covid_fatality": 1.23,
+                "covid_incidence": 1057.25,
+                "quality_of_life": 103.7,
+                "health_care": {
+                    "index": 65.8,
+                    "skill": 71.21,
+                    "speed": 69.34,
+                    "equipment": 72.54,
+                    "accuracy": 71.11,
+                    "friendliness": 64.27,
+                    "responsiveness": 56.87,
+                    "cost": 56.28,
+                    "location": 74.25
+                },
+                "traffic": {
+                    "index": 205.59,
+                    "time": 46.68,
+                    "inefficiency": 243.25
+                },
+                "pollution": 79.88,
+                "climate": 65.09
+            },
+            "cities": [
+                {
+                    "name": "Delhi",
+                    "indexes": {
+                        "covid_fatality": 1.68,
+                        "covid_incidence": 3342.27,
+                        "quality_of_life": 73.52,
+                        "health_care": {
+                            "index": 67.15,
+                            "skill": 73.03,
+                            "speed": 71.62,
+                            "equipment": 76.1,
+                            "accuracy": 72.9,
+                            "friendliness": 66.89,
+                            "responsiveness": 57.17,
+                            "cost": 56.0,
+                            "location": 74.67
+                        },
+                        "traffic": {
+                            "index": 283.5,
+                            "time": 57.34,
+                            "inefficiency": 315.0
+                        },
+                        "pollution": 90.67,
+                        "climate": 58.9
+                    }
+                },
+                {
+                    "name": "Goa",
+                    "indexes": {
+                        "covid_fatality": 1.45,
+                        "covid_incidence": 3219.29,
+                        "quality_of_life": 120.17,
+                        "health_care": {
+                            "index": 59.74,
+                            "skill": 70.45,
+                            "speed": 54.55,
+                            "equipment": 69.44,
+                            "accuracy": 72.73,
+                            "friendliness": 43.18,
+                            "responsiveness": 50.0,
+                            "cost": 59.09,
+                            "location": 59.09
+                        },
+                        "traffic": {
+                            "index": 216.19,
+                            "time": 46.14,
+                            "inefficiency": 257.69
+                        },
+                        "pollution": 49.31,
+                        "climate": 68.49
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Indonesia",
+            "indexes": {
+                "covid_fatality": 2.97,
+                "covid_incidence": 274.66,
+                "quality_of_life": 90.86,
+                "health_care": {
+                    "index": 60.42,
+                    "skill": 59.71,
+                    "speed": 58.43,
+                    "equipment": 69.51,
+                    "accuracy": 58.62,
+                    "friendliness": 70.29,
+                    "responsiveness": 51.24,
+                    "cost": 53.16,
+                    "location": 69.64
+                },
+                "traffic": {
+                    "index": 196.3,
+                    "time": 43.41,
+                    "inefficiency": 241.53
+                },
+                "pollution": 66.96,
+                "climate": 68.48
+            },
+            "cities": []
+        },
+        {
+            "name": "Iran",
+            "indexes": {
+                "covid_fatality": 4.49,
+                "covid_incidence": 1466.11,
+                "quality_of_life": 65.75,
+                "health_care": {
+                    "index": 52.58,
+                    "skill": 58.84,
+                    "speed": 53.31,
+                    "equipment": 62.23,
+                    "accuracy": 55.06,
+                    "friendliness": 47.07,
+                    "responsiveness": 41.56,
+                    "cost": 48.09,
+                    "location": 58.98
+                },
+                "traffic": {
+                    "index": 216.47,
+                    "time": 47.43,
+                    "inefficiency": 236.88
+                },
+                "pollution": 75.65,
+                "climate": 70.99
+            },
+            "cities": []
+        },
+        {
+            "name": "Iraq",
+            "indexes": {
+                "covid_fatality": 2.15,
+                "covid_incidence": 1482.24,
+                "quality_of_life": 95.61,
+                "health_care": {
+                    "index": 44.38,
+                    "skill": 42.16,
+                    "speed": 43.08,
+                    "equipment": 42.58,
+                    "accuracy": 38.08,
+                    "friendliness": 46.54,
+                    "responsiveness": 35.77,
+                    "cost": 49.24,
+                    "location": 52.73
+                },
+                "traffic": {
+                    "index": 160.33,
+                    "time": 36.12,
+                    "inefficiency": 192.13
+                },
+                "pollution": 73.48,
+                "climate": 46.98
+            },
+            "cities": []
+        },
+        {
+            "name": "Ireland",
+            "indexes": {
+                "covid_fatality": 2.4,
+                "covid_incidence": 1894.21,
+                "quality_of_life": 152.33,
+                "health_care": {
+                    "index": 52.95,
+                    "skill": 55.66,
+                    "speed": 43.38,
+                    "equipment": 66.92,
+                    "accuracy": 56.17,
+                    "friendliness": 73.7,
+                    "responsiveness": 29.6,
+                    "cost": 43.78,
+                    "location": 63.56
+                },
+                "traffic": {
+                    "index": 149.82,
+                    "time": 37.9,
+                    "inefficiency": 173.43
+                },
+                "pollution": 33.94,
+                "climate": 89.13
+            },
+            "cities": []
+        },
+        {
+            "name": "Israel",
+            "indexes": {
+                "covid_fatality": 0.78,
+                "covid_incidence": 4950.7,
+                "quality_of_life": 144.91,
+                "health_care": {
+                    "index": 73.75,
+                    "skill": 80.9,
+                    "speed": 71.79,
+                    "equipment": 88.96,
+                    "accuracy": 77.61,
+                    "friendliness": 66.67,
+                    "responsiveness": 48.8,
+                    "cost": 75.0,
+                    "location": 78.98
+                },
+                "traffic": {
+                    "index": 146.91,
+                    "time": 35.48,
+                    "inefficiency": 159.96
+                },
+                "pollution": 58.31,
+                "climate": 94.16
+            },
+            "cities": []
+        },
+        {
+            "name": "Italy",
+            "indexes": {
+                "covid_fatality": 3.21,
+                "covid_incidence": 3415.59,
+                "quality_of_life": 138.87,
+                "health_care": {
+                    "index": 67.06,
+                    "skill": 74.62,
+                    "speed": 55.61,
+                    "equipment": 78.5,
+                    "accuracy": 71.78,
+                    "friendliness": 65.28,
+                    "responsiveness": 43.6,
+                    "cost": 69.78,
+                    "location": 74.59
+                },
+                "traffic": {
+                    "index": 133.41,
+                    "time": 34.16,
+                    "inefficiency": 160.51
+                },
+                "pollution": 53.96,
+                "climate": 91.48
+            },
+            "cities": []
+        },
+        {
+            "name": "Ivory Coast",
+            "indexes": {
+                "covid_fatality": 0.61,
+                "covid_incidence": 85.54,
+                "quality_of_life": 23.66,
+                "health_care": {
+                    "index": 38.49,
+                    "skill": 28.57,
+                    "speed": 50.0,
+                    "equipment": 25.0,
+                    "accuracy": 42.86,
+                    "friendliness": 39.29,
+                    "responsiveness": 39.29,
+                    "cost": 35.71,
+                    "location": 50.0
+                },
+                "traffic": {
+                    "index": 212.67,
+                    "time": 42.5,
+                    "inefficiency": 210.06
+                },
+                "pollution": 95.82,
+                "climate": 65.12
+            },
+            "cities": []
+        },
+        {
+            "name": "Jamaica",
+            "indexes": {
+                "covid_fatality": 2.35,
+                "covid_incidence": 436.15,
+                "quality_of_life": 60.02,
+                "health_care": {
+                    "index": 51.08,
+                    "skill": 59.29,
+                    "speed": 46.53,
+                    "equipment": 51.43,
+                    "accuracy": 57.35,
+                    "friendliness": 54.17,
+                    "responsiveness": 25.69,
+                    "cost": 50.69,
+                    "location": 63.89
+                },
+                "traffic": {
+                    "index": 228.6,
+                    "time": 51.92,
+                    "inefficiency": 251.87
+                },
+                "pollution": 66.17,
+                "climate": 71.58
+            },
+            "cities": []
+        },
+        {
+            "name": "Japan",
+            "indexes": {
+                "covid_fatality": 1.55,
+                "covid_incidence": 110.21,
+                "quality_of_life": 163.63,
+                "health_care": {
+                    "index": 80.33,
+                    "skill": 80.71,
+                    "speed": 84.1,
+                    "equipment": 85.78,
+                    "accuracy": 82.08,
+                    "friendliness": 85.94,
+                    "responsiveness": 72.5,
+                    "cost": 74.38,
+                    "location": 83.12
+                },
+                "traffic": {
+                    "index": 134.01,
+                    "time": 39.96,
+                    "inefficiency": 148.4
+                },
+                "pollution": 38.94,
+                "climate": 84.79
+            },
+            "cities": [
+                {
+                    "name": "Fukuoka",
+                    "indexes": {
+                        "covid_fatality": 1.25,
+                        "covid_incidence": 178.71,
+                        "quality_of_life": 163.84,
+                        "health_care": {
+                            "index": 78.47,
+                            "skill": 68.75,
+                            "speed": 81.25,
+                            "equipment": 87.5,
+                            "accuracy": 75.0,
+                            "friendliness": 87.5,
+                            "responsiveness": 68.75,
+                            "cost": 75.0,
+                            "location": 87.5
+                        },
+                        "traffic": {
+                            "index": 154.32,
+                            "time": 44.5,
+                            "inefficiency": 139.98
+                        },
+                        "pollution": 35.61,
+                        "climate": 86.35
+                    }
+                },
+                {
+                    "name": "Kyoto",
+                    "indexes": {
+                        "covid_fatality": 1.02,
+                        "covid_incidence": 189.94,
+                        "quality_of_life": 172.03,
+                        "health_care": {
+                            "index": 83.33,
+                            "skill": 75.0,
+                            "speed": 93.75,
+                            "equipment": 93.75,
+                            "accuracy": 87.5,
+                            "friendliness": 93.75,
+                            "responsiveness": 75.0,
+                            "cost": 75.0,
+                            "location": 81.25
+                        },
+                        "traffic": {
+                            "index": 78.7,
+                            "time": 33.33,
+                            "inefficiency": 91.82
+                        },
+                        "pollution": 38.15,
+                        "climate": 84.41
+                    }
+                },
+                {
+                    "name": "Osaka",
+                    "indexes": {
+                        "covid_fatality": 1.77,
+                        "covid_incidence": 343.52,
+                        "quality_of_life": 158.3,
+                        "health_care": {
+                            "index": 79.72,
+                            "skill": 78.33,
+                            "speed": 89.29,
+                            "equipment": 96.15,
+                            "accuracy": 82.14,
+                            "friendliness": 83.93,
+                            "responsiveness": 76.92,
+                            "cost": 67.86,
+                            "location": 75.0
+                        },
+                        "traffic": {
+                            "index": 72.82,
+                            "time": 27.33,
+                            "inefficiency": 84.95
+                        },
+                        "pollution": 53.66,
+                        "climate": 84.32
+                    }
+                },
+                {
+                    "name": "Tokyo",
+                    "indexes": {
+                        "covid_fatality": 0.96,
+                        "covid_incidence": 438.4,
+                        "quality_of_life": 158.66,
+                        "health_care": {
+                            "index": 80.24,
+                            "skill": 81.74,
+                            "speed": 83.99,
+                            "equipment": 84.66,
+                            "accuracy": 81.25,
+                            "friendliness": 86.65,
+                            "responsiveness": 72.75,
+                            "cost": 74.44,
+                            "location": 82.22
+                        },
+                        "traffic": {
+                            "index": 130.01,
+                            "time": 41.08,
+                            "inefficiency": 132.11
+                        },
+                        "pollution": 43.01,
+                        "climate": 85.26
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Jordan",
+            "indexes": {
+                "covid_fatality": 1.3,
+                "covid_incidence": 2898.76,
+                "quality_of_life": 112.24,
+                "health_care": {
+                    "index": 65.24,
+                    "skill": 71.96,
+                    "speed": 70.26,
+                    "equipment": 76.09,
+                    "accuracy": 68.7,
+                    "friendliness": 66.52,
+                    "responsiveness": 56.42,
+                    "cost": 51.75,
+                    "location": 73.7
+                },
+                "traffic": {
+                    "index": 191.33,
+                    "time": 41.41,
+                    "inefficiency": 219.74
+                },
+                "pollution": 76.09,
+                "climate": 89.05
+            },
+            "cities": []
+        },
+        {
+            "name": "Kazakhstan",
+            "indexes": {
+                "covid_fatality": 1.37,
+                "covid_incidence": 1076.12,
+                "quality_of_life": 95.12,
+                "health_care": {
+                    "index": 59.62,
+                    "skill": 54.53,
+                    "speed": 60.76,
+                    "equipment": 65.7,
+                    "accuracy": 56.79,
+                    "friendliness": 56.89,
+                    "responsiveness": 50.29,
+                    "cost": 59.56,
+                    "location": 72.49
+                },
+                "traffic": {
+                    "index": 134.52,
+                    "time": 34.86,
+                    "inefficiency": 150.75
+                },
+                "pollution": 72.87,
+                "climate": 39.78
+            },
+            "cities": []
+        },
+        {
+            "name": "Kenya",
+            "indexes": {
+                "covid_fatality": 1.74,
+                "covid_incidence": 179.68,
+                "quality_of_life": 75.31,
+                "health_care": {
+                    "index": 56.4,
+                    "skill": 56.44,
+                    "speed": 50.81,
+                    "equipment": 60.32,
+                    "accuracy": 64.52,
+                    "friendliness": 63.31,
+                    "responsiveness": 42.34,
+                    "cost": 50.4,
+                    "location": 69.05
+                },
+                "traffic": {
+                    "index": 277.69,
+                    "time": 57.2,
+                    "inefficiency": 295.25
+                },
+                "pollution": 75.88,
+                "climate": 99.79
+            },
+            "cities": []
+        },
+        {
+            "name": "Kosovo (Disputed Territory)",
+            "indexes": {
+                "covid_fatality": 2.59,
+                "covid_incidence": 2844.84,
+                "quality_of_life": 130.06,
+                "health_care": {
+                    "index": 65.69,
+                    "skill": 73.53,
+                    "speed": 66.18,
+                    "equipment": 61.76,
+                    "accuracy": 64.71,
+                    "friendliness": 63.24,
+                    "responsiveness": 48.53,
+                    "cost": 64.71,
+                    "location": 83.82
+                },
+                "traffic": {
+                    "index": 91.72,
+                    "time": 24.57,
+                    "inefficiency": 67.29
+                },
+                "pollution": 69.5,
+                "climate": 76.84
+            },
+            "cities": []
+        },
+        {
+            "name": "Kuwait",
+            "indexes": {
+                "covid_fatality": 0.62,
+                "covid_incidence": 3532.77,
+                "quality_of_life": 114.75,
+                "health_care": {
+                    "index": 58.97,
+                    "skill": 50.38,
+                    "speed": 59.47,
+                    "equipment": 75.79,
+                    "accuracy": 53.46,
+                    "friendliness": 50.78,
+                    "responsiveness": 48.11,
+                    "cost": 59.62,
+                    "location": 73.46
+                },
+                "traffic": {
+                    "index": 153.97,
+                    "time": 33.46,
+                    "inefficiency": 181.95
+                },
+                "pollution": 66.15,
+                "climate": 20.22
+            },
+            "cities": []
+        },
+        {
+            "name": "Kyrgyzstan",
+            "indexes": {
+                "covid_fatality": 1.67,
+                "covid_incidence": 1243.92,
+                "quality_of_life": 87.64,
+                "health_care": {
+                    "index": 56.56,
+                    "skill": 56.25,
+                    "speed": 52.78,
+                    "equipment": 36.11,
+                    "accuracy": 58.33,
+                    "friendliness": 55.56,
+                    "responsiveness": 47.22,
+                    "cost": 66.67,
+                    "location": 69.44
+                },
+                "traffic": {
+                    "index": 160.6,
+                    "time": 39.9,
+                    "inefficiency": 179.45
+                },
+                "pollution": 70.53,
+                "climate": 58.11
+            },
+            "cities": []
+        },
+        {
+            "name": "Latvia",
+            "indexes": {
+                "covid_fatality": 1.55,
+                "covid_incidence": 2206.29,
+                "quality_of_life": 148.06,
+                "health_care": {
+                    "index": 62.02,
+                    "skill": 67.74,
+                    "speed": 61.64,
+                    "equipment": 71.68,
+                    "accuracy": 63.26,
+                    "friendliness": 61.85,
+                    "responsiveness": 42.67,
+                    "cost": 55.77,
+                    "location": 77.8
+                },
+                "traffic": {
+                    "index": 113.81,
+                    "time": 30.86,
+                    "inefficiency": 122.8
+                },
+                "pollution": 33.33,
+                "climate": 74.7
+            },
+            "cities": []
+        },
+        {
+            "name": "Lebanon",
+            "indexes": {
+                "covid_fatality": 0.8,
+                "covid_incidence": 2694.16,
+                "quality_of_life": 92.23,
+                "health_care": {
+                    "index": 63.0,
+                    "skill": 75.88,
+                    "speed": 73.01,
+                    "equipment": 76.58,
+                    "accuracy": 72.3,
+                    "friendliness": 70.35,
+                    "responsiveness": 55.26,
+                    "cost": 34.29,
+                    "location": 75.0
+                },
+                "traffic": {
+                    "index": 187.34,
+                    "time": 39.06,
+                    "inefficiency": 217.01
+                },
+                "pollution": 89.43,
+                "climate": 94.74
+            },
+            "cities": []
+        },
+        {
+            "name": "Lithuania",
+            "indexes": {
+                "covid_fatality": 1.1,
+                "covid_incidence": 5286.1,
+                "quality_of_life": 161.39,
+                "health_care": {
+                    "index": 70.91,
+                    "skill": 72.31,
+                    "speed": 67.62,
+                    "equipment": 80.08,
+                    "accuracy": 69.52,
+                    "friendliness": 62.92,
+                    "responsiveness": 52.27,
+                    "cost": 76.46,
+                    "location": 80.53
+                },
+                "traffic": {
+                    "index": 94.22,
+                    "time": 25.77,
+                    "inefficiency": 81.81
+                },
+                "pollution": 26.95,
+                "climate": 69.86
+            },
+            "cities": []
+        },
+        {
+            "name": "Luxembourg",
+            "indexes": {
+                "covid_fatality": 1.07,
+                "covid_incidence": 7414.82,
+                "quality_of_life": 176.21,
+                "health_care": {
+                    "index": 72.92,
+                    "skill": 69.23,
+                    "speed": 79.49,
+                    "equipment": 85.53,
+                    "accuracy": 71.05,
+                    "friendliness": 66.67,
+                    "responsiveness": 64.1,
+                    "cost": 69.74,
+                    "location": 80.77
+                },
+                "traffic": {
+                    "index": 118.71,
+                    "time": 31.79,
+                    "inefficiency": 117.17
+                },
+                "pollution": 23.27,
+                "climate": 82.62
+            },
+            "cities": []
+        },
+        {
+            "name": "Malaysia",
+            "indexes": {
+                "covid_fatality": 0.41,
+                "covid_incidence": 355.55,
+                "quality_of_life": 116.3,
+                "health_care": {
+                    "index": 69.62,
+                    "skill": 72.12,
+                    "speed": 67.76,
+                    "equipment": 81.54,
+                    "accuracy": 72.13,
+                    "friendliness": 70.72,
+                    "responsiveness": 56.56,
+                    "cost": 63.82,
+                    "location": 78.17
+                },
+                "traffic": {
+                    "index": 167.95,
+                    "time": 36.89,
+                    "inefficiency": 187.67
+                },
+                "pollution": 62.66,
+                "climate": 59.11
+            },
+            "cities": []
+        },
+        {
+            "name": "Malta",
+            "indexes": {
+                "covid_fatality": 1.7,
+                "covid_incidence": 2923.64,
+                "quality_of_life": 113.5,
+                "health_care": {
+                    "index": 60.11,
+                    "skill": 60.34,
+                    "speed": 53.45,
+                    "equipment": 66.07,
+                    "accuracy": 59.05,
+                    "friendliness": 60.34,
+                    "responsiveness": 46.98,
+                    "cost": 65.35,
+                    "location": 64.04
+                },
+                "traffic": {
+                    "index": 100.93,
+                    "time": 29.73,
+                    "inefficiency": 114.43
+                },
+                "pollution": 79.95,
+                "climate": 97.44
+            },
+            "cities": []
+        },
+        {
+            "name": "Mexico",
+            "indexes": {
+                "covid_fatality": 10.17,
+                "covid_incidence": 1115.56,
+                "quality_of_life": 121.12,
+                "health_care": {
+                    "index": 72.58,
+                    "skill": 75.93,
+                    "speed": 67.41,
+                    "equipment": 77.23,
+                    "accuracy": 72.09,
+                    "friendliness": 71.7,
+                    "responsiveness": 60.62,
+                    "cost": 73.91,
+                    "location": 80.45
+                },
+                "traffic": {
+                    "index": 174.65,
+                    "time": 38.98,
+                    "inefficiency": 241.0
+                },
+                "pollution": 60.34,
+                "climate": 86.63
+            },
+            "cities": [
+                {
+                    "name": "Aguascalientes",
+                    "indexes": {
+                        "covid_fatality": 8.05,
+                        "covid_incidence": 1186.43,
+                        "quality_of_life": 168.27,
+                        "health_care": {
+                            "index": 77.28,
+                            "skill": 78.12,
+                            "speed": 76.56,
+                            "equipment": 73.44,
+                            "accuracy": 68.33,
+                            "friendliness": 81.25,
+                            "responsiveness": 70.31,
+                            "cost": 80.0,
+                            "location": 87.5
+                        },
+                        "traffic": {
+                            "index": 93.55,
+                            "time": 22.33,
+                            "inefficiency": 56.13
+                        },
+                        "pollution": 35.82,
+                        "climate": 87.47
+                    }
+                },
+                {
+                    "name": "Chihuahua",
+                    "indexes": {
+                        "covid_fatality": 12.16,
+                        "covid_incidence": 960.6,
+                        "quality_of_life": 144.35,
+                        "health_care": {
+                            "index": 71.57,
+                            "skill": 75.0,
+                            "speed": 45.83,
+                            "equipment": 90.0,
+                            "accuracy": 75.0,
+                            "friendliness": 66.67,
+                            "responsiveness": 41.67,
+                            "cost": 83.33,
+                            "location": 83.33
+                        },
+                        "traffic": {
+                            "index": 95.3,
+                            "time": 18.75,
+                            "inefficiency": 56.2
+                        },
+                        "pollution": 34.48,
+                        "climate": 79.66
+                    }
+                },
+                {
+                    "name": "Mexico",
+                    "indexes": {
+                        "covid_fatality": 12.9,
+                        "covid_incidence": 846.02,
+                        "quality_of_life": 85.35,
+                        "health_care": {
+                            "index": 64.6,
+                            "skill": 71.5,
+                            "speed": 58.22,
+                            "equipment": 73.23,
+                            "accuracy": 64.75,
+                            "friendliness": 60.39,
+                            "responsiveness": 52.82,
+                            "cost": 63.12,
+                            "location": 74.3
+                        },
+                        "traffic": {
+                            "index": 257.56,
+                            "time": 52.05,
+                            "inefficiency": 351.56
+                        },
+                        "pollution": 82.83,
+                        "climate": 92.37
+                    }
+                },
+                {
+                    "name": "Puebla",
+                    "indexes": {
+                        "covid_fatality": 12.08,
+                        "covid_incidence": 721.27,
+                        "quality_of_life": 121.28,
+                        "health_care": {
+                            "index": 68.61,
+                            "skill": 73.61,
+                            "speed": 58.33,
+                            "equipment": 77.78,
+                            "accuracy": 65.28,
+                            "friendliness": 64.71,
+                            "responsiveness": 58.33,
+                            "cost": 65.28,
+                            "location": 88.89
+                        },
+                        "traffic": {
+                            "index": 109.22,
+                            "time": 28.0,
+                            "inefficiency": 82.15
+                        },
+                        "pollution": 65.16,
+                        "climate": 91.67
+                    }
+                },
+                {
+                    "name": "Queretaro",
+                    "indexes": {
+                        "covid_fatality": 5.8,
+                        "covid_incidence": 1429.26,
+                        "quality_of_life": 157.5,
+                        "health_care": {
+                            "index": 75.5,
+                            "skill": 78.26,
+                            "speed": 70.65,
+                            "equipment": 78.26,
+                            "accuracy": 78.41,
+                            "friendliness": 78.26,
+                            "responsiveness": 63.04,
+                            "cost": 76.09,
+                            "location": 80.43
+                        },
+                        "traffic": {
+                            "index": 142.34,
+                            "time": 33.12,
+                            "inefficiency": 130.66
+                        },
+                        "pollution": 37.88,
+                        "climate": 94.46
+                    }
+                },
+                {
+                    "name": "San Luis Potosi",
+                    "indexes": {
+                        "covid_fatality": 7.69,
+                        "covid_incidence": 1394.49,
+                        "quality_of_life": 124.98,
+                        "health_care": {
+                            "index": 62.42,
+                            "skill": 55.56,
+                            "speed": 50.0,
+                            "equipment": 63.89,
+                            "accuracy": 61.11,
+                            "friendliness": 58.33,
+                            "responsiveness": 56.25,
+                            "cost": 72.22,
+                            "location": 72.22
+                        },
+                        "traffic": {
+                            "index": 140.15,
+                            "time": 29.78,
+                            "inefficiency": 133.23
+                        },
+                        "pollution": 58.3,
+                        "climate": 89.24
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Moldova",
+            "indexes": {
+                "covid_fatality": 2.07,
+                "covid_incidence": 3600.88,
+                "quality_of_life": 110.68,
+                "health_care": {
+                    "index": 47.89,
+                    "skill": 42.71,
+                    "speed": 47.83,
+                    "equipment": 36.36,
+                    "accuracy": 48.91,
+                    "friendliness": 40.62,
+                    "responsiveness": 33.33,
+                    "cost": 60.42,
+                    "location": 60.42
+                },
+                "traffic": {
+                    "index": 106.59,
+                    "time": 28.0,
+                    "inefficiency": 85.83
+                },
+                "pollution": 64.96,
+                "climate": 76.91
+            },
+            "cities": []
+        },
+        {
+            "name": "Mongolia",
+            "indexes": {
+                "covid_fatality": 0.08,
+                "covid_incidence": 37.89,
+                "quality_of_life": 60.22,
+                "health_care": {
+                    "index": 49.68,
+                    "skill": 50.0,
+                    "speed": 55.43,
+                    "equipment": 44.32,
+                    "accuracy": 44.32,
+                    "friendliness": 48.86,
+                    "responsiveness": 31.52,
+                    "cost": 57.14,
+                    "location": 58.33
+                },
+                "traffic": {
+                    "index": 121.08,
+                    "time": 33.5,
+                    "inefficiency": 96.64
+                },
+                "pollution": 91.84,
+                "climate": -3.54
+            },
+            "cities": []
+        },
+        {
+            "name": "Montenegro",
+            "indexes": {
+                "covid_fatality": 1.41,
+                "covid_incidence": 7736.34,
+                "quality_of_life": 135.06,
+                "health_care": {
+                    "index": 41.99,
+                    "skill": 30.65,
+                    "speed": 25.81,
+                    "equipment": 35.34,
+                    "accuracy": 41.94,
+                    "friendliness": 39.17,
+                    "responsiveness": 26.67,
+                    "cost": 60.0,
+                    "location": 58.33
+                },
+                "traffic": {
+                    "index": 52.91,
+                    "time": 13.71,
+                    "inefficiency": 16.48
+                },
+                "pollution": 46.91,
+                "climate": 88.4
+            },
+            "cities": []
+        },
+        {
+            "name": "Morocco",
+            "indexes": {
+                "covid_fatality": 1.68,
+                "covid_incidence": 1194.7,
+                "quality_of_life": 104.55,
+                "health_care": {
+                    "index": 45.72,
+                    "skill": 49.19,
+                    "speed": 44.81,
+                    "equipment": 48.5,
+                    "accuracy": 47.03,
+                    "friendliness": 44.67,
+                    "responsiveness": 32.67,
+                    "cost": 44.87,
+                    "location": 54.87
+                },
+                "traffic": {
+                    "index": 134.7,
+                    "time": 36.3,
+                    "inefficiency": 150.64
+                },
+                "pollution": 69.67,
+                "climate": 90.04
+            },
+            "cities": []
+        },
+        {
+            "name": "Mozambique",
+            "indexes": {
+                "covid_fatality": 0.89,
+                "covid_incidence": 60.13,
+                "quality_of_life": 87.38,
+                "health_care": {
+                    "index": 43.29,
+                    "skill": 39.58,
+                    "speed": 50.0,
+                    "equipment": 37.5,
+                    "accuracy": 43.75,
+                    "friendliness": 43.75,
+                    "responsiveness": 35.42,
+                    "cost": 43.75,
+                    "location": 52.08
+                },
+                "traffic": {
+                    "index": 108.47,
+                    "time": 24.17,
+                    "inefficiency": 124.45
+                },
+                "pollution": 69.06,
+                "climate": 94.8
+            },
+            "cities": []
+        },
+        {
+            "name": "Nepal",
+            "indexes": {
+                "covid_fatality": 0.71,
+                "covid_incidence": 895.84,
+                "quality_of_life": 95.87,
+                "health_care": {
+                    "index": 57.94,
+                    "skill": 58.22,
+                    "speed": 54.55,
+                    "equipment": 57.33,
+                    "accuracy": 59.59,
+                    "friendliness": 63.82,
+                    "responsiveness": 48.97,
+                    "cost": 54.33,
+                    "location": 70.27
+                },
+                "traffic": {
+                    "index": 102.86,
+                    "time": 35.66,
+                    "inefficiency": 109.37
+                },
+                "pollution": 84.23,
+                "climate": 92.64
+            },
+            "cities": []
+        },
+        {
+            "name": "Netherlands",
+            "indexes": {
+                "covid_fatality": 1.24,
+                "covid_incidence": 3782.61,
+                "quality_of_life": 183.35,
+                "health_care": {
+                    "index": 75.42,
+                    "skill": 75.74,
+                    "speed": 72.78,
+                    "equipment": 90.67,
+                    "accuracy": 76.03,
+                    "friendliness": 78.29,
+                    "responsiveness": 68.14,
+                    "cost": 65.76,
+                    "location": 85.62
+                },
+                "traffic": {
+                    "index": 97.38,
+                    "time": 27.75,
+                    "inefficiency": 165.17
+                },
+                "pollution": 25.33,
+                "climate": 87.0
+            },
+            "cities": [
+                {
+                    "name": "Groningen",
+                    "indexes": {
+                        "covid_fatality": 0.64,
+                        "covid_incidence": 2603.84,
+                        "quality_of_life": 181.0,
+                        "health_care": {
+                            "index": 65.89,
+                            "skill": 70.24,
+                            "speed": 63.1,
+                            "equipment": 92.11,
+                            "accuracy": 59.21,
+                            "friendliness": 71.43,
+                            "responsiveness": 52.38,
+                            "cost": 52.38,
+                            "location": 79.76
+                        },
+                        "traffic": {
+                            "index": 83.27,
+                            "time": 22.58,
+                            "inefficiency": 63.18
+                        },
+                        "pollution": 28.21,
+                        "climate": 83.55
+                    }
+                },
+                {
+                    "name": "Utrecht",
+                    "indexes": {
+                        "covid_fatality": 1.29,
+                        "covid_incidence": 4979.58,
+                        "quality_of_life": 170.29,
+                        "health_care": {
+                            "index": 74.0,
+                            "skill": 77.27,
+                            "speed": 70.45,
+                            "equipment": 87.5,
+                            "accuracy": 76.19,
+                            "friendliness": 75.0,
+                            "responsiveness": 65.91,
+                            "cost": 64.77,
+                            "location": 84.09
+                        },
+                        "traffic": {
+                            "index": 108.98,
+                            "time": 31.82,
+                            "inefficiency": 176.32
+                        },
+                        "pollution": 30.67,
+                        "climate": 87.16
+                    }
+                }
+            ]
+        },
+        {
+            "name": "New Zealand",
+            "indexes": {
+                "covid_fatality": 1.16,
+                "covid_incidence": 44.83,
+                "quality_of_life": 175.77,
+                "health_care": {
+                    "index": 73.54,
+                    "skill": 76.5,
+                    "speed": 67.36,
+                    "equipment": 78.1,
+                    "accuracy": 74.31,
+                    "friendliness": 84.1,
+                    "responsiveness": 55.23,
+                    "cost": 72.42,
+                    "location": 81.42
+                },
+                "traffic": {
+                    "index": 127.19,
+                    "time": 30.72,
+                    "inefficiency": 161.57
+                },
+                "pollution": 23.67,
+                "climate": 96.35
+            },
+            "cities": []
+        },
+        {
+            "name": "Nigeria",
+            "indexes": {
+                "covid_fatality": 1.46,
+                "covid_incidence": 42.97,
+                "quality_of_life": 53.4,
+                "health_care": {
+                    "index": 48.34,
+                    "skill": 51.68,
+                    "speed": 49.5,
+                    "equipment": 42.86,
+                    "accuracy": 54.0,
+                    "friendliness": 51.52,
+                    "responsiveness": 34.0,
+                    "cost": 47.45,
+                    "location": 56.62
+                },
+                "traffic": {
+                    "index": 307.64,
+                    "time": 61.68,
+                    "inefficiency": 448.49
+                },
+                "pollution": 87.5,
+                "climate": 60.75
+            },
+            "cities": []
+        },
+        {
+            "name": "North Macedonia",
+            "indexes": {
+                "covid_fatality": 3.0,
+                "covid_incidence": 4019.57,
+                "quality_of_life": 110.36,
+                "health_care": {
+                    "index": 56.33,
+                    "skill": 54.95,
+                    "speed": 48.42,
+                    "equipment": 48.35,
+                    "accuracy": 56.42,
+                    "friendliness": 49.55,
+                    "responsiveness": 42.34,
+                    "cost": 67.12,
+                    "location": 72.69
+                },
+                "traffic": {
+                    "index": 92.6,
+                    "time": 26.9,
+                    "inefficiency": 100.18
+                },
+                "pollution": 80.05,
+                "climate": 76.3
+            },
+            "cities": []
+        },
+        {
+            "name": "Norway",
+            "indexes": {
+                "covid_fatality": 0.88,
+                "covid_incidence": 918.66,
+                "quality_of_life": 173.27,
+                "health_care": {
+                    "index": 75.37,
+                    "skill": 75.94,
+                    "speed": 67.71,
+                    "equipment": 87.22,
+                    "accuracy": 73.75,
+                    "friendliness": 79.79,
+                    "responsiveness": 55.14,
+                    "cost": 78.97,
+                    "location": 80.79
+                },
+                "traffic": {
+                    "index": 92.77,
+                    "time": 26.8,
+                    "inefficiency": 121.57
+                },
+                "pollution": 18.14,
+                "climate": 68.68
+            },
+            "cities": []
+        },
+        {
+            "name": "Oman",
+            "indexes": {
+                "covid_fatality": 1.16,
+                "covid_incidence": 2523.53,
+                "quality_of_life": 170.99,
+                "health_care": {
+                    "index": 58.42,
+                    "skill": 52.27,
+                    "speed": 61.36,
+                    "equipment": 57.39,
+                    "accuracy": 55.11,
+                    "friendliness": 61.9,
+                    "responsiveness": 53.41,
+                    "cost": 52.27,
+                    "location": 79.76
+                },
+                "traffic": {
+                    "index": 121.91,
+                    "time": 23.02,
+                    "inefficiency": 280.88
+                },
+                "pollution": 37.59,
+                "climate": 67.22
+            },
+            "cities": []
+        },
+        {
+            "name": "Pakistan",
+            "indexes": {
+                "covid_fatality": 2.04,
+                "covid_incidence": 499.92,
+                "quality_of_life": 103.44,
+                "health_care": {
+                    "index": 60.36,
+                    "skill": 64.94,
+                    "speed": 65.03,
+                    "equipment": 63.67,
+                    "accuracy": 65.82,
+                    "friendliness": 56.41,
+                    "responsiveness": 48.75,
+                    "cost": 53.8,
+                    "location": 71.02
+                },
+                "traffic": {
+                    "index": 164.05,
+                    "time": 38.37,
+                    "inefficiency": 197.57
+                },
+                "pollution": 73.29,
+                "climate": 73.63
+            },
+            "cities": [
+                {
+                    "name": "Islamabad",
+                    "indexes": {
+                        "covid_fatality": 1.11,
+                        "covid_incidence": 1894.77,
+                        "quality_of_life": 138.96,
+                        "health_care": {
+                            "index": 64.43,
+                            "skill": 71.21,
+                            "speed": 67.8,
+                            "equipment": 69.32,
+                            "accuracy": 70.56,
+                            "friendliness": 62.5,
+                            "responsiveness": 56.05,
+                            "cost": 52.42,
+                            "location": 77.54
+                        },
+                        "traffic": {
+                            "index": 155.38,
+                            "time": 34.73,
+                            "inefficiency": 211.63
+                        },
+                        "pollution": 42.21,
+                        "climate": 76.91
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Panama",
+            "indexes": {
+                "covid_fatality": 1.63,
+                "covid_incidence": 5787.87,
+                "quality_of_life": 111.28,
+                "health_care": {
+                    "index": 60.45,
+                    "skill": 68.1,
+                    "speed": 61.21,
+                    "equipment": 70.69,
+                    "accuracy": 61.82,
+                    "friendliness": 55.17,
+                    "responsiveness": 47.41,
+                    "cost": 56.03,
+                    "location": 67.54
+                },
+                "traffic": {
+                    "index": 170.81,
+                    "time": 37.55,
+                    "inefficiency": 195.69
+                },
+                "pollution": 59.65,
+                "climate": 67.84
+            },
+            "cities": []
+        },
+        {
+            "name": "Paraguay",
+            "indexes": {
+                "covid_fatality": 2.09,
+                "covid_incidence": 1519.08,
+                "quality_of_life": 106.58,
+                "health_care": {
+                    "index": 64.47,
+                    "skill": 68.97,
+                    "speed": 66.67,
+                    "equipment": 69.83,
+                    "accuracy": 67.24,
+                    "friendliness": 76.67,
+                    "responsiveness": 54.17,
+                    "cost": 56.67,
+                    "location": 63.33
+                },
+                "traffic": {
+                    "index": 218.02,
+                    "time": 46.62,
+                    "inefficiency": 279.8
+                },
+                "pollution": 67.15,
+                "climate": 92.24
+            },
+            "cities": []
+        },
+        {
+            "name": "Peru",
+            "indexes": {
+                "covid_fatality": 3.2,
+                "covid_incidence": 3086.2,
+                "quality_of_life": 82.59,
+                "health_care": {
+                    "index": 57.47,
+                    "skill": 56.58,
+                    "speed": 52.33,
+                    "equipment": 60.86,
+                    "accuracy": 57.43,
+                    "friendliness": 62.01,
+                    "responsiveness": 46.43,
+                    "cost": 56.58,
+                    "location": 68.42
+                },
+                "traffic": {
+                    "index": 216.44,
+                    "time": 49.11,
+                    "inefficiency": 261.57
+                },
+                "pollution": 82.23,
+                "climate": 97.69
+            },
+            "cities": [
+                {
+                    "name": "Lima",
+                    "indexes": {
+                        "covid_fatality": 3.73,
+                        "covid_incidence": 4229.33,
+                        "quality_of_life": 79.74,
+                        "health_care": {
+                            "index": 59.68,
+                            "skill": 58.58,
+                            "speed": 55.22,
+                            "equipment": 64.18,
+                            "accuracy": 60.61,
+                            "friendliness": 64.71,
+                            "responsiveness": 48.55,
+                            "cost": 57.35,
+                            "location": 70.59
+                        },
+                        "traffic": {
+                            "index": 226.18,
+                            "time": 50.44,
+                            "inefficiency": 270.38
+                        },
+                        "pollution": 84.24,
+                        "climate": 97.69
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Philippines",
+            "indexes": {
+                "covid_fatality": 1.94,
+                "covid_incidence": 434.22,
+                "quality_of_life": 78.44,
+                "health_care": {
+                    "index": 67.1,
+                    "skill": 70.85,
+                    "speed": 65.09,
+                    "equipment": 67.61,
+                    "accuracy": 67.86,
+                    "friendliness": 76.71,
+                    "responsiveness": 55.46,
+                    "cost": 63.17,
+                    "location": 73.94
+                },
+                "traffic": {
+                    "index": 195.17,
+                    "time": 44.04,
+                    "inefficiency": 244.47
+                },
+                "pollution": 73.78,
+                "climate": 60.78
+            },
+            "cities": []
+        },
+        {
+            "name": "Poland",
+            "indexes": {
+                "covid_fatality": 2.22,
+                "covid_incidence": 3450.17,
+                "quality_of_life": 129.42,
+                "health_care": {
+                    "index": 55.96,
+                    "skill": 57.14,
+                    "speed": 50.28,
+                    "equipment": 66.41,
+                    "accuracy": 58.14,
+                    "friendliness": 51.47,
+                    "responsiveness": 34.25,
+                    "cost": 59.29,
+                    "location": 67.38
+                },
+                "traffic": {
+                    "index": 110.77,
+                    "time": 31.51,
+                    "inefficiency": 105.36
+                },
+                "pollution": 57.22,
+                "climate": 76.15
+            },
+            "cities": []
+        },
+        {
+            "name": "Portugal",
+            "indexes": {
+                "covid_fatality": 1.66,
+                "covid_incidence": 4125.15,
+                "quality_of_life": 161.87,
+                "health_care": {
+                    "index": 71.88,
+                    "skill": 77.43,
+                    "speed": 62.56,
+                    "equipment": 77.24,
+                    "accuracy": 72.96,
+                    "friendliness": 75.89,
+                    "responsiveness": 49.46,
+                    "cost": 75.06,
+                    "location": 81.24
+                },
+                "traffic": {
+                    "index": 110.41,
+                    "time": 29.33,
+                    "inefficiency": 119.46
+                },
+                "pollution": 29.76,
+                "climate": 97.72
+            },
+            "cities": []
+        },
+        {
+            "name": "Qatar",
+            "indexes": {
+                "covid_fatality": 0.17,
+                "covid_incidence": 4999.62,
+                "quality_of_life": 154.66,
+                "health_care": {
+                    "index": 73.0,
+                    "skill": 68.23,
+                    "speed": 69.66,
+                    "equipment": 88.28,
+                    "accuracy": 69.53,
+                    "friendliness": 76.16,
+                    "responsiveness": 56.35,
+                    "cost": 75.0,
+                    "location": 78.82
+                },
+                "traffic": {
+                    "index": 142.05,
+                    "time": 30.45,
+                    "inefficiency": 154.98
+                },
+                "pollution": 60.19,
+                "climate": 36.03
+            },
+            "cities": []
+        },
+        {
+            "name": "Romania",
+            "indexes": {
+                "covid_fatality": 2.49,
+                "covid_incidence": 3307.06,
+                "quality_of_life": 132.22,
+                "health_care": {
+                    "index": 56.12,
+                    "skill": 61.06,
+                    "speed": 53.27,
+                    "equipment": 57.01,
+                    "accuracy": 58.78,
+                    "friendliness": 51.98,
+                    "responsiveness": 40.27,
+                    "cost": 56.02,
+                    "location": 70.64
+                },
+                "traffic": {
+                    "index": 126.25,
+                    "time": 34.02,
+                    "inefficiency": 133.6
+                },
+                "pollution": 58.43,
+                "climate": 77.62
+            },
+            "cities": []
+        },
+        {
+            "name": "Russia",
+            "indexes": {
+                "covid_fatality": 1.61,
+                "covid_incidence": 2237.89,
+                "quality_of_life": 101.89,
+                "health_care": {
+                    "index": 58.46,
+                    "skill": 54.35,
+                    "speed": 54.9,
+                    "equipment": 58.33,
+                    "accuracy": 56.36,
+                    "friendliness": 52.36,
+                    "responsiveness": 48.36,
+                    "cost": 65.13,
+                    "location": 71.17
+                },
+                "traffic": {
+                    "index": 182.02,
+                    "time": 44.64,
+                    "inefficiency": 191.12
+                },
+                "pollution": 62.53,
+                "climate": 38.46
+            },
+            "cities": [
+                {
+                    "name": "Moscow",
+                    "indexes": {
+                        "covid_fatality": 1.38,
+                        "covid_incidence": 6522.03,
+                        "quality_of_life": 104.14,
+                        "health_care": {
+                            "index": 63.52,
+                            "skill": 59.26,
+                            "speed": 60.97,
+                            "equipment": 64.81,
+                            "accuracy": 60.37,
+                            "friendliness": 56.82,
+                            "responsiveness": 56.68,
+                            "cost": 69.13,
+                            "location": 74.52
+                        },
+                        "traffic": {
+                            "index": 219.62,
+                            "time": 51.34,
+                            "inefficiency": 226.9
+                        },
+                        "pollution": 57.81,
+                        "climate": 55.83
+                    }
+                },
+                {
+                    "name": "Saint Petersburg",
+                    "indexes": {
+                        "covid_fatality": 3.16,
+                        "covid_incidence": 4594.04,
+                        "quality_of_life": 103.78,
+                        "health_care": {
+                            "index": 58.98,
+                            "skill": 55.56,
+                            "speed": 55.61,
+                            "equipment": 58.33,
+                            "accuracy": 56.25,
+                            "friendliness": 53.97,
+                            "responsiveness": 49.45,
+                            "cost": 65.56,
+                            "location": 70.53
+                        },
+                        "traffic": {
+                            "index": 205.5,
+                            "time": 47.94,
+                            "inefficiency": 196.91
+                        },
+                        "pollution": 62.49,
+                        "climate": 60.64
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Rwanda",
+            "indexes": {
+                "covid_fatality": 1.11,
+                "covid_incidence": 65.32,
+                "quality_of_life": 0.0,
+                "health_care": {
+                    "index": 69.72,
+                    "skill": 73.21,
+                    "speed": 66.07,
+                    "equipment": 62.5,
+                    "accuracy": 65.38,
+                    "friendliness": 69.23,
+                    "responsiveness": 60.71,
+                    "cost": 78.57,
+                    "location": 73.21
+                },
+                "traffic": {
+                    "index": 86.98,
+                    "time": 16.0,
+                    "inefficiency": 46.36
+                },
+                "pollution": 44.08,
+                "climate": 99.74
+            },
+            "cities": []
+        },
+        {
+            "name": "Saudi Arabia",
+            "indexes": {
+                "covid_fatality": 1.72,
+                "covid_incidence": 1042.34,
+                "quality_of_life": 146.53,
+                "health_care": {
+                    "index": 60.63,
+                    "skill": 57.66,
+                    "speed": 59.79,
+                    "equipment": 77.08,
+                    "accuracy": 62.15,
+                    "friendliness": 55.66,
+                    "responsiveness": 47.52,
+                    "cost": 57.53,
+                    "location": 70.77
+                },
+                "traffic": {
+                    "index": 131.8,
+                    "time": 28.45,
+                    "inefficiency": 164.34
+                },
+                "pollution": 64.06,
+                "climate": 45.98
+            },
+            "cities": []
+        },
+        {
+            "name": "Senegal",
+            "indexes": {
+                "covid_fatality": 2.12,
+                "covid_incidence": 115.65,
+                "quality_of_life": 0.0,
+                "health_care": {
+                    "index": 50.64,
+                    "skill": 43.75,
+                    "speed": 65.62,
+                    "equipment": 40.62,
+                    "accuracy": 50.0,
+                    "friendliness": 71.88,
+                    "responsiveness": 43.75,
+                    "cost": 46.88,
+                    "location": 46.43
+                },
+                "traffic": {
+                    "index": 85.82,
+                    "time": 25.0,
+                    "inefficiency": 62.55
+                },
+                "pollution": 95.15,
+                "climate": 85.64
+            },
+            "cities": []
+        },
+        {
+            "name": "Serbia",
+            "indexes": {
+                "covid_fatality": 0.96,
+                "covid_incidence": 3891.3,
+                "quality_of_life": 118.79,
+                "health_care": {
+                    "index": 51.8,
+                    "skill": 54.65,
+                    "speed": 42.57,
+                    "equipment": 45.78,
+                    "accuracy": 51.4,
+                    "friendliness": 47.72,
+                    "responsiveness": 29.17,
+                    "cost": 62.01,
+                    "location": 70.92
+                },
+                "traffic": {
+                    "index": 109.73,
+                    "time": 30.76,
+                    "inefficiency": 122.22
+                },
+                "pollution": 61.63,
+                "climate": 83.23
+            },
+            "cities": []
+        },
+        {
+            "name": "Singapore",
+            "indexes": {
+                "covid_fatality": 0.05,
+                "covid_incidence": 1002.15,
+                "quality_of_life": 144.13,
+                "health_care": {
+                    "index": 71.06,
+                    "skill": 74.43,
+                    "speed": 71.43,
+                    "equipment": 93.0,
+                    "accuracy": 79.69,
+                    "friendliness": 76.26,
+                    "responsiveness": 62.01,
+                    "cost": 49.42,
+                    "location": 83.88
+                },
+                "traffic": {
+                    "index": 147.52,
+                    "time": 41.22,
+                    "inefficiency": 147.85
+                },
+                "pollution": 33.07,
+                "climate": 57.45
+            },
+            "cities": []
+        },
+        {
+            "name": "Slovakia",
+            "indexes": {
+                "covid_fatality": 1.22,
+                "covid_incidence": 3379.49,
+                "quality_of_life": 148.02,
+                "health_care": {
+                    "index": 60.46,
+                    "skill": 63.85,
+                    "speed": 53.33,
+                    "equipment": 60.23,
+                    "accuracy": 63.98,
+                    "friendliness": 54.35,
+                    "responsiveness": 33.46,
+                    "cost": 70.62,
+                    "location": 73.72
+                },
+                "traffic": {
+                    "index": 98.9,
+                    "time": 27.76,
+                    "inefficiency": 168.3
+                },
+                "pollution": 39.48,
+                "climate": 78.13
+            },
+            "cities": []
+        },
+        {
+            "name": "Slovenia",
+            "indexes": {
+                "covid_fatality": 2.2,
+                "covid_incidence": 5962.2,
+                "quality_of_life": 167.08,
+                "health_care": {
+                    "index": 65.43,
+                    "skill": 70.5,
+                    "speed": 51.55,
+                    "equipment": 70.25,
+                    "accuracy": 66.29,
+                    "friendliness": 66.46,
+                    "responsiveness": 31.41,
+                    "cost": 76.75,
+                    "location": 78.91
+                },
+                "traffic": {
+                    "index": 101.72,
+                    "time": 26.93,
+                    "inefficiency": 142.42
+                },
+                "pollution": 22.75,
+                "climate": 77.56
+            },
+            "cities": []
+        },
+        {
+            "name": "South Africa",
+            "indexes": {
+                "covid_fatality": 2.69,
+                "covid_incidence": 1810.67,
+                "quality_of_life": 132.86,
+                "health_care": {
+                    "index": 63.89,
+                    "skill": 70.98,
+                    "speed": 67.28,
+                    "equipment": 73.29,
+                    "accuracy": 69.58,
+                    "friendliness": 63.45,
+                    "responsiveness": 56.98,
+                    "cost": 48.26,
+                    "location": 76.97
+                },
+                "traffic": {
+                    "index": 191.29,
+                    "time": 39.34,
+                    "inefficiency": 242.83
+                },
+                "pollution": 56.7,
+                "climate": 95.25
+            },
+            "cities": []
+        },
+        {
+            "name": "South Korea",
+            "indexes": {
+                "covid_fatality": 1.5,
+                "covid_incidence": 122.09,
+                "quality_of_life": 129.18,
+                "health_care": {
+                    "index": 82.29,
+                    "skill": 82.47,
+                    "speed": 85.38,
+                    "equipment": 90.38,
+                    "accuracy": 81.87,
+                    "friendliness": 78.85,
+                    "responsiveness": 79.58,
+                    "cost": 77.2,
+                    "location": 87.64
+                },
+                "traffic": {
+                    "index": 145.8,
+                    "time": 40.09,
+                    "inefficiency": 153.1
+                },
+                "pollution": 62.22,
+                "climate": 68.39
+            },
+            "cities": []
+        },
+        {
+            "name": "Spain",
+            "indexes": {
+                "covid_fatality": 2.52,
+                "covid_incidence": 4190.66,
+                "quality_of_life": 165.13,
+                "health_care": {
+                    "index": 78.84,
+                    "skill": 82.61,
+                    "speed": 68.26,
+                    "equipment": 87.19,
+                    "accuracy": 78.68,
+                    "friendliness": 77.05,
+                    "responsiveness": 55.68,
+                    "cost": 87.18,
+                    "location": 85.7
+                },
+                "traffic": {
+                    "index": 107.23,
+                    "time": 29.36,
+                    "inefficiency": 129.32
+                },
+                "pollution": 39.64,
+                "climate": 93.65
+            },
+            "cities": [
+                {
+                    "name": "Madrid",
+                    "indexes": {
+                        "covid_fatality": 2.96,
+                        "covid_incidence": 6015.06,
+                        "quality_of_life": 149.4,
+                        "health_care": {
+                            "index": 79.08,
+                            "skill": 82.6,
+                            "speed": 68.16,
+                            "equipment": 87.92,
+                            "accuracy": 78.41,
+                            "friendliness": 71.96,
+                            "responsiveness": 54.17,
+                            "cost": 90.03,
+                            "location": 88.48
+                        },
+                        "traffic": {
+                            "index": 138.7,
+                            "time": 35.21,
+                            "inefficiency": 143.04
+                        },
+                        "pollution": 52.61,
+                        "climate": 85.47
+                    }
+                },
+                {
+                    "name": "Murcia",
+                    "indexes": {
+                        "covid_fatality": 1.23,
+                        "covid_incidence": 4054.41,
+                        "quality_of_life": 162.98,
+                        "health_care": {
+                            "index": 84.43,
+                            "skill": 91.07,
+                            "speed": 76.79,
+                            "equipment": 87.5,
+                            "accuracy": 84.62,
+                            "friendliness": 82.14,
+                            "responsiveness": 61.54,
+                            "cost": 96.15,
+                            "location": 83.93
+                        },
+                        "traffic": {
+                            "index": 238.41,
+                            "time": 46.6,
+                            "inefficiency": 405.17
+                        },
+                        "pollution": 39.71,
+                        "climate": 89.6
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Sri Lanka",
+            "indexes": {
+                "covid_fatality": 0.47,
+                "covid_incidence": 204.81,
+                "quality_of_life": 74.13,
+                "health_care": {
+                    "index": 72.63,
+                    "skill": 81.74,
+                    "speed": 70.43,
+                    "equipment": 74.56,
+                    "accuracy": 79.78,
+                    "friendliness": 72.83,
+                    "responsiveness": 56.76,
+                    "cost": 70.05,
+                    "location": 77.46
+                },
+                "traffic": {
+                    "index": 275.54,
+                    "time": 57.2,
+                    "inefficiency": 388.58
+                },
+                "pollution": 60.01,
+                "climate": 59.11
+            },
+            "cities": []
+        },
+        {
+            "name": "Suriname",
+            "indexes": {
+                "covid_fatality": 1.96,
+                "covid_incidence": 1070.0,
+                "quality_of_life": 104.55,
+                "health_care": {
+                    "index": 43.37,
+                    "skill": 42.65,
+                    "speed": 43.33,
+                    "equipment": 45.0,
+                    "accuracy": 42.65,
+                    "friendliness": 45.59,
+                    "responsiveness": 30.0,
+                    "cost": 39.71,
+                    "location": 61.67
+                },
+                "traffic": {
+                    "index": 139.89,
+                    "time": 33.0,
+                    "inefficiency": 123.62
+                },
+                "pollution": 52.13,
+                "climate": 64.25
+            },
+            "cities": []
+        },
+        {
+            "name": "Sweden",
+            "indexes": {
+                "covid_fatality": 1.88,
+                "covid_incidence": 3824.23,
+                "quality_of_life": 171.97,
+                "health_care": {
+                    "index": 68.86,
+                    "skill": 66.75,
+                    "speed": 54.81,
+                    "equipment": 85.71,
+                    "accuracy": 68.28,
+                    "friendliness": 72.94,
+                    "responsiveness": 43.38,
+                    "cost": 76.79,
+                    "location": 74.24
+                },
+                "traffic": {
+                    "index": 100.94,
+                    "time": 29.76,
+                    "inefficiency": 138.19
+                },
+                "pollution": 18.49,
+                "climate": 74.92
+            },
+            "cities": [
+                {
+                    "name": "Orebro",
+                    "indexes": {
+                        "covid_fatality": 1.64,
+                        "covid_incidence": 4351.96,
+                        "quality_of_life": 192.46,
+                        "health_care": {
+                            "index": 90.0,
+                            "skill": 90.0,
+                            "speed": 80.0,
+                            "equipment": 95.0,
+                            "accuracy": 90.0,
+                            "friendliness": 85.0,
+                            "responsiveness": 75.0,
+                            "cost": 100.0,
+                            "location": 95.0
+                        },
+                        "traffic": {
+                            "index": 92.05,
+                            "time": 18.67,
+                            "inefficiency": 105.23
+                        },
+                        "pollution": 12.41,
+                        "climate": 70.82
+                    }
+                },
+                {
+                    "name": "Stockholm",
+                    "indexes": {
+                        "covid_fatality": 2.76,
+                        "covid_incidence": 4979.09,
+                        "quality_of_life": 157.1,
+                        "health_care": {
+                            "index": 66.79,
+                            "skill": 65.8,
+                            "speed": 53.22,
+                            "equipment": 85.67,
+                            "accuracy": 65.66,
+                            "friendliness": 69.62,
+                            "responsiveness": 42.49,
+                            "cost": 74.11,
+                            "location": 70.47
+                        },
+                        "traffic": {
+                            "index": 120.56,
+                            "time": 35.91,
+                            "inefficiency": 121.88
+                        },
+                        "pollution": 19.69,
+                        "climate": 69.67
+                    }
+                },
+                {
+                    "name": "Uppsala",
+                    "indexes": {
+                        "covid_fatality": 1.99,
+                        "covid_incidence": 4613.87,
+                        "quality_of_life": 181.51,
+                        "health_care": {
+                            "index": 72.03,
+                            "skill": 68.75,
+                            "speed": 61.36,
+                            "equipment": 93.18,
+                            "accuracy": 75.0,
+                            "friendliness": 75.0,
+                            "responsiveness": 29.17,
+                            "cost": 81.25,
+                            "location": 83.33
+                        },
+                        "traffic": {
+                            "index": 55.67,
+                            "time": 13.0,
+                            "inefficiency": 21.54
+                        },
+                        "pollution": 13.52,
+                        "climate": 66.43
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Switzerland",
+            "indexes": {
+                "covid_fatality": 1.7,
+                "covid_incidence": 5226.07,
+                "quality_of_life": 190.94,
+                "health_care": {
+                    "index": 74.27,
+                    "skill": 80.63,
+                    "speed": 81.48,
+                    "equipment": 91.55,
+                    "accuracy": 80.86,
+                    "friendliness": 80.92,
+                    "responsiveness": 74.92,
+                    "cost": 46.0,
+                    "location": 86.12
+                },
+                "traffic": {
+                    "index": 92.0,
+                    "time": 28.65,
+                    "inefficiency": 100.6
+                },
+                "pollution": 19.93,
+                "climate": 80.05
+            },
+            "cities": []
+        },
+        {
+            "name": "Syria",
+            "indexes": {
+                "covid_fatality": 6.22,
+                "covid_incidence": 65.86,
+                "quality_of_life": 33.5,
+                "health_care": {
+                    "index": 40.2,
+                    "skill": 40.48,
+                    "speed": 39.77,
+                    "equipment": 40.91,
+                    "accuracy": 38.64,
+                    "friendliness": 38.64,
+                    "responsiveness": 32.95,
+                    "cost": 42.39,
+                    "location": 45.65
+                },
+                "traffic": {
+                    "index": 87.77,
+                    "time": 22.4,
+                    "inefficiency": 59.17
+                },
+                "pollution": 73.64,
+                "climate": 70.11
+            },
+            "cities": []
+        },
+        {
+            "name": "Taiwan",
+            "indexes": {
+                "covid_fatality": 0.87,
+                "covid_incidence": 3.37,
+                "quality_of_life": 138.08,
+                "health_care": {
+                    "index": 86.41,
+                    "skill": 85.95,
+                    "speed": 84.79,
+                    "equipment": 88.37,
+                    "accuracy": 84.1,
+                    "friendliness": 85.66,
+                    "responsiveness": 78.97,
+                    "cost": 89.86,
+                    "location": 90.14
+                },
+                "traffic": {
+                    "index": 114.89,
+                    "time": 31.78,
+                    "inefficiency": 129.89
+                },
+                "pollution": 62.96,
+                "climate": 81.6
+            },
+            "cities": []
+        },
+        {
+            "name": "Tanzania",
+            "indexes": {
+                "covid_fatality": 4.13,
+                "covid_incidence": 0.85,
+                "quality_of_life": 83.22,
+                "health_care": {
+                    "index": 56.46,
+                    "skill": 52.78,
+                    "speed": 60.53,
+                    "equipment": 51.39,
+                    "accuracy": 55.26,
+                    "friendliness": 60.53,
+                    "responsiveness": 43.42,
+                    "cost": 57.89,
+                    "location": 68.42
+                },
+                "traffic": {
+                    "index": 124.96,
+                    "time": 29.4,
+                    "inefficiency": 105.03
+                },
+                "pollution": 64.38,
+                "climate": 71.28
+            },
+            "cities": []
+        },
+        {
+            "name": "Thailand",
+            "indexes": {
+                "covid_fatality": 0.87,
+                "covid_incidence": 10.57,
+                "quality_of_life": 101.76,
+                "health_care": {
+                    "index": 77.84,
+                    "skill": 77.53,
+                    "speed": 80.29,
+                    "equipment": 84.3,
+                    "accuracy": 78.66,
+                    "friendliness": 86.89,
+                    "responsiveness": 75.51,
+                    "cost": 67.54,
+                    "location": 82.33
+                },
+                "traffic": {
+                    "index": 174.74,
+                    "time": 39.04,
+                    "inefficiency": 224.39
+                },
+                "pollution": 75.5,
+                "climate": 69.45
+            },
+            "cities": []
+        },
+        {
+            "name": "Trinidad And Tobago",
+            "indexes": {
+                "covid_fatality": 1.77,
+                "covid_incidence": 511.47,
+                "quality_of_life": 90.16,
+                "health_care": {
+                    "index": 53.76,
+                    "skill": 55.5,
+                    "speed": 36.5,
+                    "equipment": 54.08,
+                    "accuracy": 56.5,
+                    "friendliness": 46.94,
+                    "responsiveness": 25.0,
+                    "cost": 66.67,
+                    "location": 76.02
+                },
+                "traffic": {
+                    "index": 256.44,
+                    "time": 49.28,
+                    "inefficiency": 294.85
+                },
+                "pollution": 67.44,
+                "climate": 67.55
+            },
+            "cities": []
+        },
+        {
+            "name": "Tunisia",
+            "indexes": {
+                "covid_fatality": 3.37,
+                "covid_incidence": 1189.28,
+                "quality_of_life": 114.54,
+                "health_care": {
+                    "index": 56.51,
+                    "skill": 66.25,
+                    "speed": 53.12,
+                    "equipment": 59.88,
+                    "accuracy": 63.82,
+                    "friendliness": 52.24,
+                    "responsiveness": 45.57,
+                    "cost": 54.63,
+                    "location": 58.44
+                },
+                "traffic": {
+                    "index": 122.19,
+                    "time": 32.92,
+                    "inefficiency": 106.9
+                },
+                "pollution": 71.18,
+                "climate": 93.7
+            },
+            "cities": []
+        },
+        {
+            "name": "Turkey",
+            "indexes": {
+                "covid_fatality": 0.95,
+                "covid_incidence": 2633.25,
+                "quality_of_life": 126.57,
+                "health_care": {
+                    "index": 70.77,
+                    "skill": 74.15,
+                    "speed": 70.67,
+                    "equipment": 81.21,
+                    "accuracy": 73.11,
+                    "friendliness": 66.73,
+                    "responsiveness": 62.26,
+                    "cost": 65.11,
+                    "location": 78.59
+                },
+                "traffic": {
+                    "index": 193.68,
+                    "time": 44.53,
+                    "inefficiency": 213.84
+                },
+                "pollution": 66.02,
+                "climate": 92.55
+            },
+            "cities": []
+        },
+        {
+            "name": "Uganda",
+            "indexes": {
+                "covid_fatality": 0.75,
+                "covid_incidence": 77.63,
+                "quality_of_life": 0.0,
+                "health_care": {
+                    "index": 47.41,
+                    "skill": 54.46,
+                    "speed": 46.43,
+                    "equipment": 43.0,
+                    "accuracy": 55.36,
+                    "friendliness": 59.26,
+                    "responsiveness": 34.82,
+                    "cost": 37.96,
+                    "location": 57.41
+                },
+                "traffic": {
+                    "index": 194.28,
+                    "time": 44.13,
+                    "inefficiency": 233.59
+                },
+                "pollution": 84.91,
+                "climate": 98.41
+            },
+            "cities": []
+        },
+        {
+            "name": "Ukraine",
+            "indexes": {
+                "covid_fatality": 1.9,
+                "covid_incidence": 2550.35,
+                "quality_of_life": 107.73,
+                "health_care": {
+                    "index": 53.62,
+                    "skill": 52.68,
+                    "speed": 54.38,
+                    "equipment": 44.24,
+                    "accuracy": 51.77,
+                    "friendliness": 51.69,
+                    "responsiveness": 45.85,
+                    "cost": 56.62,
+                    "location": 68.7
+                },
+                "traffic": {
+                    "index": 143.39,
+                    "time": 37.92,
+                    "inefficiency": 132.81
+                },
+                "pollution": 63.95,
+                "climate": 70.77
+            },
+            "cities": [
+                {
+                    "name": "Kiev",
+                    "indexes": {
+                        "covid_fatality": 1.72,
+                        "covid_incidence": 3807.65,
+                        "quality_of_life": 106.4,
+                        "health_care": {
+                            "index": 56.39,
+                            "skill": 55.06,
+                            "speed": 60.76,
+                            "equipment": 48.1,
+                            "accuracy": 54.59,
+                            "friendliness": 54.11,
+                            "responsiveness": 51.05,
+                            "cost": 56.57,
+                            "location": 70.68
+                        },
+                        "traffic": {
+                            "index": 175.65,
+                            "time": 43.0,
+                            "inefficiency": 153.86
+                        },
+                        "pollution": 65.62,
+                        "climate": 69.95
+                    }
+                }
+            ]
+        },
+        {
+            "name": "United Arab Emirates",
+            "indexes": {
+                "covid_fatality": 0.32,
+                "covid_incidence": 2120.02,
+                "quality_of_life": 158.16,
+                "health_care": {
+                    "index": 68.09,
+                    "skill": 64.07,
+                    "speed": 75.4,
+                    "equipment": 87.44,
+                    "accuracy": 70.51,
+                    "friendliness": 77.6,
+                    "responsiveness": 65.97,
+                    "cost": 45.31,
+                    "location": 81.16
+                },
+                "traffic": {
+                    "index": 169.01,
+                    "time": 36.28,
+                    "inefficiency": 248.68
+                },
+                "pollution": 50.1,
+                "climate": 45.23
+            },
+            "cities": []
+        },
+        {
+            "name": "United Kingdom",
+            "indexes": {
+                "covid_fatality": 2.24,
+                "covid_incidence": 2068.13,
+                "quality_of_life": 158.82,
+                "health_care": {
+                    "index": 75.06,
+                    "skill": 74.95,
+                    "speed": 62.43,
+                    "equipment": 83.72,
+                    "accuracy": 72.43,
+                    "friendliness": 78.52,
+                    "responsiveness": 52.11,
+                    "cost": 85.24,
+                    "location": 80.86
+                },
+                "traffic": {
+                    "index": 132.73,
+                    "time": 34.46,
+                    "inefficiency": 158.63
+                },
+                "pollution": 40.24,
+                "climate": 88.09
+            },
+            "cities": []
+        },
+        {
+            "name": "United States",
+            "indexes": {
+                "covid_fatality": 1.82,
+                "covid_incidence": 6579.4,
+                "quality_of_life": 166.34,
+                "health_care": {
+                    "index": 69.06,
+                    "skill": 74.51,
+                    "speed": 71.92,
+                    "equipment": 86.4,
+                    "accuracy": 75.1,
+                    "friendliness": 75.57,
+                    "responsiveness": 61.2,
+                    "cost": 48.24,
+                    "location": 80.39
+                },
+                "traffic": {
+                    "index": 151.47,
+                    "time": 32.88,
+                    "inefficiency": 242.48
+                },
+                "pollution": 39.0,
+                "climate": 77.4
+            },
+            "cities": [
+                {
+                    "name": "Colorado",
+                    "indexes": {
+                        "covid_fatality": 1.44,
+                        "covid_incidence": 5862.46,
+                        "quality_of_life": 167.78,
+                        "health_care": {
+                            "index": 62.05,
+                            "skill": 68.75,
+                            "speed": 56.25,
+                            "equipment": 85.0,
+                            "accuracy": 68.42,
+                            "friendliness": 66.25,
+                            "responsiveness": 50.0,
+                            "cost": 46.25,
+                            "location": 71.25
+                        },
+                        "traffic": {
+                            "index": 120.48,
+                            "time": 25.34,
+                            "inefficiency": 188.49
+                        },
+                        "pollution": 30.89,
+                        "climate": 51.44
+                    }
+                },
+                {
+                    "name": "Idaho",
+                    "indexes": {
+                        "covid_fatality": 1.04,
+                        "covid_incidence": 7060.19,
+                        "quality_of_life": 197.45,
+                        "health_care": {
+                            "index": 58.8,
+                            "skill": 54.17,
+                            "speed": 54.17,
+                            "equipment": 75.0,
+                            "accuracy": 62.5,
+                            "friendliness": 83.33,
+                            "responsiveness": 62.5,
+                            "cost": 25.0,
+                            "location": 87.5
+                        },
+                        "traffic": {
+                            "index": 70.19,
+                            "time": 12.33,
+                            "inefficiency": 29.36
+                        },
+                        "pollution": 10.34,
+                        "climate": 45.88
+                    }
+                },
+                {
+                    "name": "Indiana",
+                    "indexes": {
+                        "covid_fatality": 1.67,
+                        "covid_incidence": 7497.6,
+                        "quality_of_life": 171.54,
+                        "health_care": {
+                            "index": 73.01,
+                            "skill": 80.83,
+                            "speed": 78.33,
+                            "equipment": 89.29,
+                            "accuracy": 81.9,
+                            "friendliness": 75.83,
+                            "responsiveness": 69.17,
+                            "cost": 48.39,
+                            "location": 85.0
+                        },
+                        "traffic": {
+                            "index": 134.27,
+                            "time": 29.07,
+                            "inefficiency": 181.79
+                        },
+                        "pollution": 41.78,
+                        "climate": 69.92
+                    }
+                },
+                {
+                    "name": "Kansas",
+                    "indexes": {
+                        "covid_fatality": 1.67,
+                        "covid_incidence": 8916.68,
+                        "quality_of_life": 178.4,
+                        "health_care": {
+                            "index": 77.51,
+                            "skill": 82.81,
+                            "speed": 84.09,
+                            "equipment": 91.94,
+                            "accuracy": 86.29,
+                            "friendliness": 82.26,
+                            "responsiveness": 68.18,
+                            "cost": 56.25,
+                            "location": 89.52
+                        },
+                        "traffic": {
+                            "index": 126.14,
+                            "time": 26.29,
+                            "inefficiency": 121.2
+                        },
+                        "pollution": 31.35,
+                        "climate": 75.08
+                    }
+                },
+                {
+                    "name": "New York",
+                    "indexes": {
+                        "covid_fatality": 6.54,
+                        "covid_incidence": 3704.62,
+                        "quality_of_life": 138.1,
+                        "health_care": {
+                            "index": 61.64,
+                            "skill": 73.53,
+                            "speed": 65.33,
+                            "equipment": 85.56,
+                            "accuracy": 72.96,
+                            "friendliness": 64.29,
+                            "responsiveness": 48.91,
+                            "cost": 37.5,
+                            "location": 69.16
+                        },
+                        "traffic": {
+                            "index": 163.91,
+                            "time": 43.13,
+                            "inefficiency": 190.4
+                        },
+                        "pollution": 57.88,
+                        "climate": 79.66
+                    }
+                },
+                {
+                    "name": "Oklahoma",
+                    "indexes": {
+                        "covid_fatality": 0.93,
+                        "covid_incidence": 7842.88,
+                        "quality_of_life": 188.79,
+                        "health_care": {
+                            "index": 77.56,
+                            "skill": 82.61,
+                            "speed": 81.52,
+                            "equipment": 88.1,
+                            "accuracy": 88.1,
+                            "friendliness": 89.13,
+                            "responsiveness": 75.0,
+                            "cost": 51.14,
+                            "location": 91.3
+                        },
+                        "traffic": {
+                            "index": 118.15,
+                            "time": 25.58,
+                            "inefficiency": 130.15
+                        },
+                        "pollution": 20.89,
+                        "climate": 77.61
+                    }
+                },
+                {
+                    "name": "Washington",
+                    "indexes": {
+                        "covid_fatality": 1.23,
+                        "covid_incidence": 3418.5,
+                        "quality_of_life": 158.49,
+                        "health_care": {
+                            "index": 69.47,
+                            "skill": 77.88,
+                            "speed": 72.64,
+                            "equipment": 91.35,
+                            "accuracy": 75.0,
+                            "friendliness": 67.45,
+                            "responsiveness": 62.98,
+                            "cost": 49.53,
+                            "location": 78.85
+                        },
+                        "traffic": {
+                            "index": 187.48,
+                            "time": 40.37,
+                            "inefficiency": 236.04
+                        },
+                        "pollution": 40.5,
+                        "climate": 81.62
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Uruguay",
+            "indexes": {
+                "covid_fatality": 0.98,
+                "covid_incidence": 568.64,
+                "quality_of_life": 123.54,
+                "health_care": {
+                    "index": 67.76,
+                    "skill": 68.75,
+                    "speed": 65.76,
+                    "equipment": 71.07,
+                    "accuracy": 71.59,
+                    "friendliness": 70.83,
+                    "responsiveness": 48.37,
+                    "cost": 64.56,
+                    "location": 84.34
+                },
+                "traffic": {
+                    "index": 139.31,
+                    "time": 37.74,
+                    "inefficiency": 148.98
+                },
+                "pollution": 46.03,
+                "climate": 98.04
+            },
+            "cities": []
+        },
+        {
+            "name": "Uzbekistan",
+            "indexes": {
+                "covid_fatality": 0.8,
+                "covid_incidence": 230.61,
+                "quality_of_life": 117.78,
+                "health_care": {
+                    "index": 52.65,
+                    "skill": 44.12,
+                    "speed": 51.47,
+                    "equipment": 42.19,
+                    "accuracy": 50.0,
+                    "friendliness": 58.33,
+                    "responsiveness": 41.67,
+                    "cost": 62.5,
+                    "location": 61.11
+                },
+                "traffic": {
+                    "index": 105.83,
+                    "time": 29.92,
+                    "inefficiency": 114.51
+                },
+                "pollution": 50.23,
+                "climate": 69.79
+            },
+            "cities": []
+        },
+        {
+            "name": "Vietnam",
+            "indexes": {
+                "covid_fatality": 2.37,
+                "covid_incidence": 1.51,
+                "quality_of_life": 87.91,
+                "health_care": {
+                    "index": 58.28,
+                    "skill": 56.65,
+                    "speed": 58.26,
+                    "equipment": 61.14,
+                    "accuracy": 57.52,
+                    "friendliness": 59.23,
+                    "responsiveness": 49.07,
+                    "cost": 59.95,
+                    "location": 62.73
+                },
+                "traffic": {
+                    "index": 109.22,
+                    "time": 29.55,
+                    "inefficiency": 117.61
+                },
+                "pollution": 85.58,
+                "climate": 71.09
+            },
+            "cities": []
+        },
+        {
+            "name": "Zimbabwe",
+            "indexes": {
+                "covid_fatality": 2.62,
+                "covid_incidence": 94.76,
+                "quality_of_life": 85.17,
+                "health_care": {
+                    "index": 45.24,
+                    "skill": 51.79,
+                    "speed": 39.81,
+                    "equipment": 32.69,
+                    "accuracy": 51.92,
+                    "friendliness": 49.04,
+                    "responsiveness": 32.0,
+                    "cost": 38.89,
+                    "location": 72.12
+                },
+                "traffic": {
+                    "index": 115.24,
+                    "time": 27.8,
+                    "inefficiency": 88.74
+                },
+                "pollution": 75.51,
+                "climate": 96.76
+            },
+            "cities": []
+        }
+    ]
+}
